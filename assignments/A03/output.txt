@@ -1,0 +1,160 @@
+
+Heap 0
+===================
+Racer, blue 516.242
+Common zebra 399.171
+Deer, red 706.463
+Lourie, grey 489.226
+Fox, grey 772.076
+
+Heap 1
+===================
+Cat, ringtail 325.379
+Capuchin, weeper 264.652
+Capybara 463.093
+Rhesus monkey 427.203
+Squirrel, thirteen-lined 225.607
+
+Heap 2
+===================
+Cat, european wild 308.711
+Black-throated butcher bird 189.362
+Gray heron 337.329
+Madagascar fruit bat 376.519
+Black rhinoceros 215.374
+
+Heap 3
+===================
+Water legaan 282.9
+Blesbok 180.218
+Southern tamandua 329.551
+Baboon, olive 289.033
+Hoopoe, eurasian 211.755
+
+Heap 4
+===================
+Bustard, stanley 239.334
+Hartebeest, coke's 136.899
+Common waterbuck 305.187
+Yellow baboon 260.674
+Starling, red-shouldered glossy 186.125
+
+Heap 5
+===================
+Silver-backed fox 216.565
+Hyrax 87.7293
+Grouse, greater sage 291.93
+Spotted wood sandpiper 228.689
+Paradoxure 166.639
+
+Heap 6
+===================
+Indian jackal 190.239
+Dove, little brown 78.8884
+Cobra, egyptian 287.145
+Seal, common 209.503
+American crow 144.98
+
+Heap 7
+===================
+Asian openbill 183.201
+Cockatoo, red-breasted 69.5012
+Barbet, crested 241.965
+Golden brush-tailed possum 198.494
+Common zorro 120.406
+
+Heap 8
+===================
+Paradoxure 159.593
+Meerkat 68.9973
+Magistrate black colobus 210.661
+Goose, cape barren 181.548
+Gambel's quail 113.601
+
+Heap 9
+===================
+Red squirrel 150.843
+Tailless tenrec 65.6785
+Shelduck, common 197.661
+Blue-faced booby 151.354
+Striated heron 105.854
+
+Heap 10
+===================
+Hoary marmot 111.752
+Four-horned antelope 63.9571
+Bateleur eagle 192.996
+Collared lemming 124.199
+Tern, royal 101.621
+
+Heap 11
+===================
+Ibis, puna 98.4997
+Rhesus macaque 39.6473
+Chipmunk, least 170.023
+Bare-faced go away bird 123.176
+Seal, harbor 92.5314
+
+Heap 12
+===================
+Honey badger 80.9524
+Antelope, roan 29.357
+Siskin, yellow-rumped 163.079
+Blue-footed booby 94.5282
+Antelope, roan 89.8392
+
+Heap 13
+===================
+Golden eagle 79.3221
+Wild water buffalo 29.158
+Capuchin, brown 157.811
+Common seal 94.5054
+Lesser flamingo 85.8835
+
+Heap 14
+===================
+Bengal vulture 75.8962
+Godwit, hudsonian 25.1701
+Roan antelope 116.078
+Blue-footed booby 86.7305
+Egyptian cobra 84.0337
+
+Heap 15
+===================
+Oryx, fringe-eared 73.4106
+Hyena, striped 16.5239
+Worm snake (unidentified) 87.9823
+Egyptian goose 81.0356
+Indian porcupine 78.3897
+
+Heap 16
+===================
+Shrike, crimson-breasted 66.8302
+Greater sage grouse -11.6129
+King vulture 79.7026
+Black-crowned crane 77.7743
+African lynx 72.916
+
+Heap 17
+===================
+Madagascar fruit bat 55.8189
+Alligator, american -23.5592
+Sportive lemur 77.9955
+Kori bustard 74.1247
+Starfish, crown of thorns 65.7624
+
+Heap 18
+===================
+Crowned hawk-eagle 54.6876
+Southern black-backed gull -32.3178
+Hoary marmot 70.4606
+South American meadowlark (unidentified) 54.8897
+Brazilian otter 60.9301
+
+Heap 19
+===================
+Macaque, rhesus 50.3693
+Pale white-eye -32.5982
+Crow, house 65.4313
+Seal, northern fur 46.0984
+Magistrate black colobus 56.1077
