@@ -1,0 +1,4000 @@
+0001: New York
+1) Hoboken 4 (distance)
+2) Jersey City 6 (distance)
+3) West New York 8 (distance)
+0002: Los Angeles
+1) Huntington Park 8 (distance)
+2) Glendale 10 (distance)
+3) South Gate 11 (distance)
+0003: Chicago
+1) Cicero 10 (distance)
+2) Oak Park 12 (distance)
+3) Berwyn 13 (distance)
+0004: Houston
+1) Pasadena 17 (distance)
+2) Missouri City 22 (distance)
+3) Pearland 23 (distance)
+0005: Philadelphia
+1) Camden 4 (distance)
+2) Wilmington 39 (distance)
+3) Trenton 46 (distance)
+0006: Phoenix
+1) Tempe 12 (distance)
+2) Glendale 14 (distance)
+3) Scottsdale 14 (distance)
+0007: San Antonio
+1) New Braunfels 47 (distance)
+2) San Marcos 73 (distance)
+3) Austin 118 (distance)
+0008: San Diego
+1) National City 7 (distance)
+2) Chula Vista 11 (distance)
+3) La Mesa 14 (distance)
+0009: Dallas
+1) Irving 14 (distance)
+2) Duncanville 17 (distance)
+3) Mesquite 18 (distance)
+0010: San Jose
+1) Santa Clara 6 (distance)
+2) Campbell 7 (distance)
+3) Milpitas 10 (distance)
+0011: Austin
+1) Pflugerville 22 (distance)
+2) Round Rock 27 (distance)
+3) Cedar Park 27 (distance)
+0012: Indianapolis
+1) Lawrence 13 (distance)
+2) Greenwood 17 (distance)
+3) Carmel 23 (distance)
+0013: Jacksonville
+1) Palm Coast 93 (distance)
+2) Gainesville 99 (distance)
+3) Ormond Beach 129 (distance)
+0014: San Francisco
+1) Daly City 10 (distance)
+2) Oakland 13 (distance)
+3) South San Francisco 13 (distance)
+0015: Columbus
+1) Grove City 11 (distance)
+2) Dublin 18 (distance)
+3) Westerville 19 (distance)
+0016: Charlotte
+1) Huntersville 20 (distance)
+2) Concord 31 (distance)
+3) Gastonia 31 (distance)
+0017: Fort Worth
+1) Haltom City 7 (distance)
+2) North Richland Hills 12 (distance)
+3) Hurst 16 (distance)
+0018: Detroit
+1) Dearborn 10 (distance)
+2) Lincoln Park 14 (distance)
+3) Dearborn Heights 18 (distance)
+0019: El Paso
+1) Las Cruces 67 (distance)
+2) Roswell 254 (distance)
+3) Sierra Vista 363 (distance)
+0020: Memphis
+1) Bartlett 17 (distance)
+2) Southaven 18 (distance)
+3) Germantown 22 (distance)
+0021: Seattle
+1) Bellevue 9 (distance)
+2) Kirkland 12 (distance)
+3) Burien 15 (distance)
+0022: Denver
+1) Lakewood 8 (distance)
+2) Commerce City 9 (distance)
+3) Arvada 10 (distance)
+0023: Washington
+1) Alexandria 11 (distance)
+2) Rockville 22 (distance)
+3) Bowie 24 (distance)
+0024: Boston
+1) Cambridge 4 (distance)
+2) Somerville 4 (distance)
+3) Chelsea 4 (distance)
+0025: Nashville-Davidson
+1) Brentwood 14 (distance)
+2) Hendersonville 21 (distance)
+3) Franklin 27 (distance)
+0026: Baltimore
+1) Bowie 34 (distance)
+2) Annapolis 36 (distance)
+3) Rockville 51 (distance)
+0027: Oklahoma City
+1) Midwest City 11 (distance)
+2) Moore 14 (distance)
+3) Edmond 20 (distance)
+0028: Louisville/Jefferson County
+1) Jeffersonville 3 (distance)
+2) Columbus 106 (distance)
+3) Lexington-Fayette 112 (distance)
+0029: Portland
+1) Beaverton 10 (distance)
+2) Lake Oswego 11 (distance)
+3) Vancouver 12 (distance)
+0030: Las Vegas
+1) North Las Vegas 3 (distance)
+2) Henderson 20 (distance)
+3) Bullhead City 127 (distance)
+0031: Milwaukee
+1) West Allis 8 (distance)
+2) Wauwatosa 8 (distance)
+3) Greenfield 12 (distance)
+0032: Albuquerque
+1) Rio Rancho 17 (distance)
+2) Santa Fe 90 (distance)
+3) Farmington 233 (distance)
+0033: Tucson
+1) Oro Valley 19 (distance)
+2) Marana 36 (distance)
+3) Sierra Vista 97 (distance)
+0034: Fresno
+1) Clovis 10 (distance)
+2) Madera 35 (distance)
+3) Hanford 47 (distance)
+0035: Sacramento
+1) West Sacramento 3 (distance)
+2) Rancho Cordova 16 (distance)
+3) Elk Grove 21 (distance)
+0036: Long Beach
+1) Carson 10 (distance)
+2) Lakewood 10 (distance)
+3) Paramount 13 (distance)
+0037: Kansas City
+1) Kansas City 4 (distance)
+2) Independence 14 (distance)
+3) Shawnee 14 (distance)
+0038: Mesa
+1) Gilbert 7 (distance)
+2) Tempe 10 (distance)
+3) Chandler 12 (distance)
+0039: Virginia Beach
+1) Norfolk 27 (distance)
+2) Portsmouth 28 (distance)
+3) Chesapeake 29 (distance)
+0040: Atlanta
+1) Brookhaven 13 (distance)
+2) Smyrna 19 (distance)
+3) Sandy Springs 20 (distance)
+0041: Colorado Springs
+1) Castle Rock 59 (distance)
+2) Pueblo 67 (distance)
+3) Parker 76 (distance)
+0042: Omaha
+1) Council Bluffs 11 (distance)
+2) Bellevue 12 (distance)
+3) Lincoln 74 (distance)
+0043: Raleigh
+1) Cary 12 (distance)
+2) Apex 19 (distance)
+3) Durham 33 (distance)
+0044: Miami
+1) Miami Beach 6 (distance)
+2) Coral Gables 8 (distance)
+3) Hialeah 13 (distance)
+0045: Oakland
+1) Alameda 5 (distance)
+2) Berkeley 7 (distance)
+3) San Francisco 13 (distance)
+0046: Minneapolis
+1) St. Louis Park 8 (distance)
+2) Edina 11 (distance)
+3) St. Paul 14 (distance)
+0047: Tulsa
+1) Broken Arrow 20 (distance)
+2) Muskogee 72 (distance)
+3) Stillwater 95 (distance)
+0048: Cleveland
+1) Lakewood 8 (distance)
+2) Parma 10 (distance)
+3) Cleveland Heights 11 (distance)
+0049: Wichita
+1) Hutchinson 66 (distance)
+2) Salina 130 (distance)
+3) Enid 151 (distance)
+0050: Arlington
+1) Grand Prairie 10 (distance)
+2) Euless 11 (distance)
+3) Hurst 11 (distance)
+0051: New Orleans
+1) Kenner 17 (distance)
+2) Gulfport 104 (distance)
+3) Baton Rouge 117 (distance)
+0052: Bakersfield
+1) Delano 48 (distance)
+2) Porterville 76 (distance)
+3) Tulare 97 (distance)
+0053: Tampa
+1) St. Petersburg 26 (distance)
+2) Pinellas Park 26 (distance)
+3) Largo 32 (distance)
+0054: Honolulu
+1) Pacifica 3842 (distance)
+2) Daly City 3846 (distance)
+3) San Bruno 3849 (distance)
+0055: Aurora
+1) Commerce City 12 (distance)
+2) Denver 13 (distance)
+3) Centennial 16 (distance)
+0056: Anaheim
+1) Fullerton 4 (distance)
+2) Placentia 5 (distance)
+3) Garden Grove 7 (distance)
+0057: Santa Ana
+1) Tustin 3 (distance)
+2) Orange 4 (distance)
+3) Garden Grove 7 (distance)
+0058: St. Louis
+1) Florissant 20 (distance)
+2) Belleville 22 (distance)
+3) St. Charles 31 (distance)
+0059: Riverside
+1) Jurupa Valley 9 (distance)
+2) Fontana 15 (distance)
+3) Moreno Valley 15 (distance)
+0060: Corpus Christi
+1) Victoria 118 (distance)
+2) Harlingen 181 (distance)
+3) Edinburg 183 (distance)
+0061: Lexington-Fayette
+1) Jeffersonville 111 (distance)
+2) Louisville/Jefferson County 112 (distance)
+3) Covington 115 (distance)
+0062: Pittsburgh
+1) Youngstown 91 (distance)
+2) Warren 112 (distance)
+3) Canton 123 (distance)
+0063: Anchorage
+1) Bellingham 2204 (distance)
+2) Marysville 2277 (distance)
+3) Everett 2282 (distance)
+0064: Stockton
+1) Manteca 18 (distance)
+2) Lodi 19 (distance)
+3) Tracy 26 (distance)
+0065: Cincinnati
+1) Covington 2 (distance)
+2) Fairfield 27 (distance)
+3) Hamilton 33 (distance)
+0066: St. Paul
+1) Maplewood 7 (distance)
+2) Woodbury 10 (distance)
+3) Minneapolis 14 (distance)
+0067: Toledo
+1) Taylor 68 (distance)
+2) Findlay 69 (distance)
+3) Ann Arbor 70 (distance)
+0068: Greensboro
+1) High Point 23 (distance)
+2) Burlington 31 (distance)
+3) Winston-Salem 40 (distance)
+0069: Newark
+1) East Orange 4 (distance)
+2) Kearny 4 (distance)
+3) Jersey City 8 (distance)
+0070: Plano
+1) Richardson 8 (distance)
+2) Allen 9 (distance)
+3) Garland 13 (distance)
+0071: Henderson
+1) Las Vegas 20 (distance)
+2) North Las Vegas 21 (distance)
+3) Bullhead City 108 (distance)
+0072: Lincoln
+1) Omaha 74 (distance)
+2) Bellevue 74 (distance)
+3) Council Bluffs 84 (distance)
+0073: Buffalo
+1) Niagara Falls 26 (distance)
+2) Rochester 107 (distance)
+3) Erie 129 (distance)
+0074: Jersey City
+1) Hoboken 4 (distance)
+2) New York 6 (distance)
+3) Bayonne 7 (distance)
+0075: Chula Vista
+1) National City 4 (distance)
+2) San Diego 11 (distance)
+3) La Mesa 15 (distance)
+0076: Fort Wayne
+1) Lima 94 (distance)
+2) Elkhart 96 (distance)
+3) Muncie 100 (distance)
+0077: Orlando
+1) Altamonte Springs 13 (distance)
+2) Ocoee 16 (distance)
+3) Winter Garden 20 (distance)
+0078: St. Petersburg
+1) Pinellas Park 9 (distance)
+2) Largo 20 (distance)
+3) Tampa 26 (distance)
+0079: Chandler
+1) Gilbert 7 (distance)
+2) Mesa 12 (distance)
+3) Tempe 16 (distance)
+0080: Laredo
+1) Mission 185 (distance)
+2) Edinburg 188 (distance)
+3) McAllen 192 (distance)
+0081: Norfolk
+1) Portsmouth 2 (distance)
+2) Chesapeake 9 (distance)
+3) Hampton 20 (distance)
+0082: Durham
+1) Chapel Hill 16 (distance)
+2) Cary 24 (distance)
+3) Apex 29 (distance)
+0083: Madison
+1) Janesville 53 (distance)
+2) Beloit 69 (distance)
+3) Rockford 92 (distance)
+0084: Lubbock
+1) Clovis 154 (distance)
+2) Midland 176 (distance)
+3) Amarillo 182 (distance)
+0085: Irvine
+1) Tustin 7 (distance)
+2) Santa Ana 9 (distance)
+3) Lake Forest 10 (distance)
+0086: Winston-Salem
+1) High Point 26 (distance)
+2) Greensboro 40 (distance)
+3) Burlington 72 (distance)
+0087: Glendale
+1) Peoria 6 (distance)
+2) Phoenix 14 (distance)
+3) Surprise 19 (distance)
+0088: Garland
+1) Rowlett 7 (distance)
+2) Richardson 9 (distance)
+3) Plano 13 (distance)
+0089: Hialeah
+1) Doral 8 (distance)
+2) Miami Gardens 9 (distance)
+3) North Miami 9 (distance)
+0090: Reno
+1) Sparks 5 (distance)
+2) Carson City 40 (distance)
+3) Lincoln 145 (distance)
+0091: Chesapeake
+1) Portsmouth 7 (distance)
+2) Norfolk 9 (distance)
+3) Suffolk 26 (distance)
+0092: Gilbert
+1) Mesa 7 (distance)
+2) Chandler 7 (distance)
+3) Tempe 16 (distance)
+0093: Baton Rouge
+1) Lafayette 88 (distance)
+2) Kenner 100 (distance)
+3) New Orleans 117 (distance)
+0094: Irving
+1) Grand Prairie 8 (distance)
+2) Euless 12 (distance)
+3) Dallas 14 (distance)
+0095: Scottsdale
+1) Tempe 7 (distance)
+2) Mesa 12 (distance)
+3) Phoenix 14 (distance)
+0096: North Las Vegas
+1) Las Vegas 3 (distance)
+2) Henderson 21 (distance)
+3) Bullhead City 129 (distance)
+0097: Fremont
+1) Newark 5 (distance)
+2) Union City 6 (distance)
+3) Hayward 15 (distance)
+0098: Boise City
+1) Meridian 14 (distance)
+2) Nampa 29 (distance)
+3) Caldwell 38 (distance)
+0099: Richmond
+1) Newport News 98 (distance)
+2) Charlottesville 106 (distance)
+3) Hampton 111 (distance)
+0100: San Bernardino
+1) Colton 4 (distance)
+2) Rialto 7 (distance)
+3) Highland 7 (distance)
+0101: Birmingham
+1) Hoover 12 (distance)
+2) Tuscaloosa 79 (distance)
+3) Decatur 121 (distance)
+0102: Spokane
+1) Spokane Valley 14 (distance)
+2) Coeur d'Alene 48 (distance)
+3) Pasco 202 (distance)
+0103: Rochester
+1) Buffalo 107 (distance)
+2) Niagara Falls 116 (distance)
+3) Syracuse 119 (distance)
+0104: Des Moines
+1) West Des Moines 8 (distance)
+2) Urbandale 9 (distance)
+3) Ankeny 14 (distance)
+0105: Modesto
+1) Ceres 6 (distance)
+2) Turlock 20 (distance)
+3) Manteca 26 (distance)
+0106: Fayetteville
+1) Apex 75 (distance)
+2) Cary 82 (distance)
+3) Raleigh 83 (distance)
+0107: Tacoma
+1) Lakewood 10 (distance)
+2) Federal Way 12 (distance)
+3) Puyallup 13 (distance)
+0108: Oxnard
+1) San Buenaventura (Ventura) 9 (distance)
+2) Camarillo 12 (distance)
+3) Thousand Oaks 31 (distance)
+0109: Fontana
+1) Rialto 6 (distance)
+2) Jurupa Valley 11 (distance)
+3) Colton 11 (distance)
+0110: Columbus
+1) Phenix City 1 (distance)
+2) Auburn 49 (distance)
+3) Montgomery 123 (distance)
+0111: Montgomery
+1) Auburn 81 (distance)
+2) Phenix City 122 (distance)
+3) Columbus 123 (distance)
+0112: Moreno Valley
+1) Redlands 13 (distance)
+2) Riverside 15 (distance)
+3) Colton 16 (distance)
+0113: Shreveport
+1) Bossier City 1 (distance)
+2) Longview 92 (distance)
+3) Texarkana 103 (distance)
+0114: Aurora
+1) Naperville 13 (distance)
+2) Plainfield 16 (distance)
+3) Bolingbrook 21 (distance)
+0115: Yonkers
+1) Mount Vernon 5 (distance)
+2) New Rochelle 10 (distance)
+3) Hackensack 13 (distance)
+0116: Akron
+1) Cuyahoga Falls 6 (distance)
+2) Canton 33 (distance)
+3) Strongsville 37 (distance)
+0117: Huntington Beach
+1) Fountain Valley 6 (distance)
+2) Costa Mesa 7 (distance)
+3) Newport Beach 7 (distance)
+0118: Little Rock
+1) North Little Rock 3 (distance)
+2) Conway 40 (distance)
+3) Pine Bluff 63 (distance)
+0119: Augusta-Richmond County
+1) Columbia 107 (distance)
+2) Athens-Clarke County 135 (distance)
+3) Greenville 157 (distance)
+0120: Amarillo
+1) Clovis 154 (distance)
+2) Lubbock 182 (distance)
+3) Lawton 320 (distance)
+0121: Glendale
+1) Burbank 6 (distance)
+2) Los Angeles 10 (distance)
+3) Pasadena 10 (distance)
+0122: Mobile
+1) Pensacola 84 (distance)
+2) Biloxi 87 (distance)
+3) Gulfport 107 (distance)
+0123: Grand Rapids
+1) Wyoming 6 (distance)
+2) Kentwood 10 (distance)
+3) Muskegon 55 (distance)
+0124: Salt Lake City
+1) Murray 10 (distance)
+2) Taylorsville 11 (distance)
+3) West Valley City 12 (distance)
+0125: Tallahassee
+1) Valdosta 105 (distance)
+2) Albany 127 (distance)
+3) Panama City 136 (distance)
+0126: Huntsville
+1) Madison 15 (distance)
+2) Decatur 38 (distance)
+3) Florence 99 (distance)
+0127: Grand Prairie
+1) Irving 8 (distance)
+2) Arlington 10 (distance)
+3) Euless 12 (distance)
+0128: Knoxville
+1) Cleveland 124 (distance)
+2) Asheville 130 (distance)
+3) Kingsport 138 (distance)
+0129: Worcester
+1) Marlborough 22 (distance)
+2) Leominster 29 (distance)
+3) Fitchburg 35 (distance)
+0130: Newport News
+1) Hampton 13 (distance)
+2) Norfolk 31 (distance)
+3) Portsmouth 32 (distance)
+0131: Brownsville
+1) Harlingen 37 (distance)
+2) Weslaco 57 (distance)
+3) Pharr 75 (distance)
+0132: Overland Park
+1) Shawnee 5 (distance)
+2) Lenexa 6 (distance)
+3) Kansas City 15 (distance)
+0133: Santa Clarita
+1) Simi Valley 25 (distance)
+2) Burbank 31 (distance)
+3) Thousand Oaks 36 (distance)
+0134: Providence
+1) East Providence 3 (distance)
+2) Cranston 5 (distance)
+3) Pawtucket 6 (distance)
+0135: Garden Grove
+1) Westminster 5 (distance)
+2) Stanton 5 (distance)
+3) Anaheim 7 (distance)
+0136: Chattanooga
+1) Cleveland 41 (distance)
+2) Huntsville 121 (distance)
+3) Murfreesboro 132 (distance)
+0137: Oceanside
+1) Carlsbad 4 (distance)
+2) Vista 12 (distance)
+3) Encinitas 19 (distance)
+0138: Jackson
+1) Hattiesburg 137 (distance)
+2) Meridian 139 (distance)
+3) Monroe 183 (distance)
+0139: Fort Lauderdale
+1) Oakland Park 5 (distance)
+2) Lauderhill 7 (distance)
+3) Plantation 9 (distance)
+0140: Santa Rosa
+1) Rohnert Park 11 (distance)
+2) Petaluma 24 (distance)
+3) Novato 39 (distance)
+0141: Rancho Cucamonga
+1) Upland 5 (distance)
+2) Ontario 7 (distance)
+3) Montclair 9 (distance)
+0142: Port St. Lucie
+1) Fort Pierce 19 (distance)
+2) Jupiter 45 (distance)
+3) Palm Beach Gardens 54 (distance)
+0143: Tempe
+1) Scottsdale 7 (distance)
+2) Mesa 10 (distance)
+3) Phoenix 12 (distance)
+0144: Ontario
+1) Upland 3 (distance)
+2) Montclair 3 (distance)
+3) Chino 6 (distance)
+0145: Vancouver
+1) Portland 12 (distance)
+2) Beaverton 20 (distance)
+3) Gresham 23 (distance)
+0146: Cape Coral
+1) Fort Myers 11 (distance)
+2) Bonita Springs 30 (distance)
+3) North Port 60 (distance)
+0147: Sioux Falls
+1) Sioux City 119 (distance)
+2) Mankato 229 (distance)
+3) Omaha 261 (distance)
+0148: Springfield
+1) Joplin 109 (distance)
+2) Rogers 122 (distance)
+3) Bentonville 123 (distance)
+0149: Peoria
+1) Glendale 6 (distance)
+2) Surprise 13 (distance)
+3) Avondale 19 (distance)
+0150: Pembroke Pines
+1) Miramar 2 (distance)
+2) Miami Gardens 8 (distance)
+3) Davie 8 (distance)
+0151: Elk Grove
+1) Rancho Cordova 20 (distance)
+2) Sacramento 21 (distance)
+3) West Sacramento 23 (distance)
+0152: Salem
+1) Keizer 5 (distance)
+2) Albany 34 (distance)
+3) Corvallis 45 (distance)
+0153: Lancaster
+1) Palmdale 12 (distance)
+2) Santa Clarita 48 (distance)
+3) Burbank 58 (distance)
+0154: Corona
+1) Eastvale 8 (distance)
+2) Jurupa Valley 15 (distance)
+3) Riverside 17 (distance)
+0155: Eugene
+1) Springfield 5 (distance)
+2) Corvallis 58 (distance)
+3) Albany 65 (distance)
+0156: Palmdale
+1) Lancaster 12 (distance)
+2) Santa Clarita 44 (distance)
+3) Burbank 47 (distance)
+0157: Salinas
+1) Watsonville 27 (distance)
+2) Gilroy 37 (distance)
+3) Santa Cruz 46 (distance)
+0158: Springfield
+1) Chicopee 5 (distance)
+2) Holyoke 11 (distance)
+3) Westfield 13 (distance)
+0159: Pasadena
+1) Pearland 16 (distance)
+2) Houston 17 (distance)
+3) Friendswood 17 (distance)
+0160: Fort Collins
+1) Loveland 20 (distance)
+2) Greeley 36 (distance)
+3) Longmont 46 (distance)
+0161: Hayward
+1) Union City 8 (distance)
+2) San Leandro 9 (distance)
+3) Dublin 13 (distance)
+0162: Pomona
+1) Diamond Bar 6 (distance)
+2) Montclair 6 (distance)
+3) Chino 7 (distance)
+0163: Cary
+1) Apex 9 (distance)
+2) Raleigh 12 (distance)
+3) Durham 24 (distance)
+0164: Rockford
+1) Beloit 26 (distance)
+2) Janesville 46 (distance)
+3) DeKalb 47 (distance)
+0165: Alexandria
+1) Washington 11 (distance)
+2) Rockville 32 (distance)
+3) Bowie 32 (distance)
+0166: Escondido
+1) San Marcos 7 (distance)
+2) Vista 17 (distance)
+3) Poway 18 (distance)
+0167: McKinney
+1) Allen 10 (distance)
+2) Frisco 17 (distance)
+3) Plano 20 (distance)
+0168: Kansas City
+1) Kansas City 4 (distance)
+2) Shawnee 12 (distance)
+3) Overland Park 15 (distance)
+0169: Joliet
+1) Romeoville 13 (distance)
+2) Plainfield 16 (distance)
+3) Bolingbrook 19 (distance)
+0170: Sunnyvale
+1) Mountain View 4 (distance)
+2) Cupertino 5 (distance)
+3) Santa Clara 7 (distance)
+0171: Torrance
+1) Redondo Beach 4 (distance)
+2) Carson 5 (distance)
+3) Gardena 6 (distance)
+0172: Bridgeport
+1) Milford 12 (distance)
+2) Shelton 16 (distance)
+3) Norwalk 19 (distance)
+0173: Lakewood
+1) Denver 8 (distance)
+2) Arvada 10 (distance)
+3) Littleton 11 (distance)
+0174: Hollywood
+1) Hallandale Beach 3 (distance)
+2) Aventura 6 (distance)
+3) North Miami Beach 8 (distance)
+0175: Paterson
+1) Clifton 6 (distance)
+2) Passaic 7 (distance)
+3) Hackensack 11 (distance)
+0176: Naperville
+1) Bolingbrook 9 (distance)
+2) Romeoville 12 (distance)
+3) Aurora 13 (distance)
+0177: Syracuse
+1) Utica 74 (distance)
+2) Binghamton 107 (distance)
+3) Rochester 119 (distance)
+0178: Mesquite
+1) Rowlett 15 (distance)
+2) Garland 16 (distance)
+3) Dallas 18 (distance)
+0179: Dayton
+1) Kettering 7 (distance)
+2) Huber Heights 11 (distance)
+3) Beavercreek 12 (distance)
+0180: Savannah
+1) Hilton Head Island 35 (distance)
+2) Charleston 134 (distance)
+3) North Charleston 135 (distance)
+0181: Clarksville
+1) Nashville-Davidson 65 (distance)
+2) Hendersonville 70 (distance)
+3) Brentwood 75 (distance)
+0182: Orange
+1) Santa Ana 4 (distance)
+2) Tustin 5 (distance)
+3) Anaheim 7 (distance)
+0183: Pasadena
+1) Alhambra 6 (distance)
+2) San Gabriel 6 (distance)
+3) Monterey Park 9 (distance)
+0184: Fullerton
+1) Anaheim 4 (distance)
+2) Placentia 4 (distance)
+3) Brea 5 (distance)
+0185: Killeen
+1) Temple 36 (distance)
+2) Georgetown 54 (distance)
+3) Round Rock 67 (distance)
+0186: Frisco
+1) The Colony 10 (distance)
+2) Allen 15 (distance)
+3) McKinney 17 (distance)
+0187: Hampton
+1) Newport News 13 (distance)
+2) Norfolk 20 (distance)
+3) Portsmouth 22 (distance)
+0188: McAllen
+1) Pharr 4 (distance)
+2) Mission 9 (distance)
+3) Edinburg 12 (distance)
+0189: Warren
+1) Roseville 6 (distance)
+2) Sterling Heights 7 (distance)
+3) St. Clair Shores 9 (distance)
+0190: Bellevue
+1) Kirkland 7 (distance)
+2) Seattle 9 (distance)
+3) Redmond 9 (distance)
+0191: West Valley City
+1) Taylorsville 5 (distance)
+2) Murray 9 (distance)
+3) West Jordan 10 (distance)
+0192: Columbia
+1) Sumter 64 (distance)
+2) Rock Hill 102 (distance)
+3) Augusta-Richmond County 107 (distance)
+0193: Olathe
+1) Lenexa 10 (distance)
+2) Overland Park 17 (distance)
+3) Shawnee 18 (distance)
+0194: Sterling Heights
+1) Warren 7 (distance)
+2) Troy 10 (distance)
+3) Roseville 11 (distance)
+0195: New Haven
+1) West Haven 4 (distance)
+2) Shelton 13 (distance)
+3) Milford 14 (distance)
+0196: Miramar
+1) Pembroke Pines 2 (distance)
+2) Miami Gardens 7 (distance)
+3) Davie 11 (distance)
+0197: Waco
+1) Temple 53 (distance)
+2) Killeen 73 (distance)
+3) Burleson 111 (distance)
+0198: Thousand Oaks
+1) Simi Valley 12 (distance)
+2) Camarillo 19 (distance)
+3) Oxnard 31 (distance)
+0199: Cedar Rapids
+1) Iowa City 36 (distance)
+2) Waterloo 79 (distance)
+3) Cedar Falls 89 (distance)
+0200: Charleston
+1) North Charleston 9 (distance)
+2) Mount Pleasant 11 (distance)
+3) Goose Creek 24 (distance)
+0201: Visalia
+1) Tulare 14 (distance)
+2) Hanford 31 (distance)
+3) Porterville 38 (distance)
+0202: Topeka
+1) Lawrence 40 (distance)
+2) Olathe 77 (distance)
+3) Manhattan 77 (distance)
+0203: Elizabeth
+1) Union City 5 (distance)
+2) Linden 5 (distance)
+3) Newark 8 (distance)
+0204: Gainesville
+1) Ocala 54 (distance)
+2) Jacksonville 99 (distance)
+3) Palm Coast 108 (distance)
+0205: Thornton
+1) Northglenn 3 (distance)
+2) Westminster 6 (distance)
+3) Commerce City 7 (distance)
+0206: Roseville
+1) Citrus Heights 5 (distance)
+2) Rocklin 6 (distance)
+3) Folsom 12 (distance)
+0207: Carrollton
+1) Coppell 11 (distance)
+2) The Colony 11 (distance)
+3) Lewisville 12 (distance)
+0208: Coral Springs
+1) Tamarac 6 (distance)
+2) Margate 7 (distance)
+3) North Lauderdale 7 (distance)
+0209: Stamford
+1) Norwalk 13 (distance)
+2) White Plains 18 (distance)
+3) New Rochelle 25 (distance)
+0210: Simi Valley
+1) Thousand Oaks 12 (distance)
+2) Camarillo 24 (distance)
+3) Santa Clarita 25 (distance)
+0211: Concord
+1) Walnut Creek 8 (distance)
+2) Martinez 10 (distance)
+3) Pittsburg 13 (distance)
+0212: Hartford
+1) New Britain 13 (distance)
+2) Middletown 22 (distance)
+3) Bristol 24 (distance)
+0213: Kent
+1) Federal Way 8 (distance)
+2) Auburn 8 (distance)
+3) Renton 11 (distance)
+0214: Lafayette
+1) Baton Rouge 88 (distance)
+2) Lake Charles 115 (distance)
+3) Alexandria 127 (distance)
+0215: Midland
+1) Odessa 32 (distance)
+2) San Angelo 166 (distance)
+3) Lubbock 176 (distance)
+0216: Surprise
+1) Peoria 13 (distance)
+2) Glendale 19 (distance)
+3) Avondale 21 (distance)
+0217: Denton
+1) Lewisville 22 (distance)
+2) Flower Mound 22 (distance)
+3) The Colony 26 (distance)
+0218: Victorville
+1) Apple Valley 10 (distance)
+2) Hesperia 12 (distance)
+3) Highland 46 (distance)
+0219: Evansville
+1) Owensboro 46 (distance)
+2) Bowling Green 147 (distance)
+3) Bloomington 160 (distance)
+0220: Santa Clara
+1) San Jose 6 (distance)
+2) Sunnyvale 7 (distance)
+3) Cupertino 7 (distance)
+0221: Abilene
+1) San Angelo 128 (distance)
+2) Wichita Falls 199 (distance)
+3) Midland 226 (distance)
+0222: Athens-Clarke County
+1) Johns Creek 78 (distance)
+2) Peachtree Corners 79 (distance)
+3) Alpharetta 87 (distance)
+0223: Vallejo
+1) Martinez 14 (distance)
+2) Richmond 20 (distance)
+3) Napa 21 (distance)
+0224: Allentown
+1) Bethlehem 10 (distance)
+2) Reading 47 (distance)
+3) Trenton 76 (distance)
+0225: Norman
+1) Moore 13 (distance)
+2) Midwest City 25 (distance)
+3) Oklahoma City 28 (distance)
+0226: Beaumont
+1) Port Arthur 28 (distance)
+2) Lake Charles 88 (distance)
+3) Baytown 90 (distance)
+0227: Independence
+1) Kansas City 14 (distance)
+2) Blue Springs 14 (distance)
+3) Kansas City 18 (distance)
+0228: Murfreesboro
+1) Smyrna 19 (distance)
+2) Brentwood 41 (distance)
+3) Franklin 44 (distance)
+0229: Ann Arbor
+1) Westland 28 (distance)
+2) Novi 31 (distance)
+3) Livonia 33 (distance)
+0230: Springfield
+1) Decatur 59 (distance)
+2) Bloomington 95 (distance)
+3) Normal 98 (distance)
+0231: Berkeley
+1) Oakland 7 (distance)
+2) Richmond 9 (distance)
+3) Alameda 12 (distance)
+0232: Peoria
+1) Normal 54 (distance)
+2) Bloomington 55 (distance)
+3) Springfield 101 (distance)
+0233: Provo
+1) Orem 7 (distance)
+2) Spanish Fork 13 (distance)
+3) Lehi 23 (distance)
+0234: El Monte
+1) Rosemead 4 (distance)
+2) Baldwin Park 6 (distance)
+3) Arcadia 7 (distance)
+0235: Columbia
+1) Jefferson City 43 (distance)
+2) Quincy 135 (distance)
+3) O'Fallon 142 (distance)
+0236: Lansing
+1) East Lansing 5 (distance)
+2) Battle Creek 68 (distance)
+3) Flint 77 (distance)
+0237: Fargo
+1) Moorhead 1 (distance)
+2) Grand Forks 117 (distance)
+3) St. Cloud 249 (distance)
+0238: Downey
+1) Bell Gardens 3 (distance)
+2) Pico Rivera 5 (distance)
+3) Norwalk 6 (distance)
+0239: Costa Mesa
+1) Newport Beach 2 (distance)
+2) Huntington Beach 7 (distance)
+3) Fountain Valley 8 (distance)
+0240: Wilmington
+1) Jacksonville 75 (distance)
+2) Fayetteville 125 (distance)
+3) Greenville 162 (distance)
+0241: Arvada
+1) Westminster 5 (distance)
+2) Denver 10 (distance)
+3) Lakewood 10 (distance)
+0242: Inglewood
+1) Hawthorne 5 (distance)
+2) Culver City 7 (distance)
+3) Gardena 9 (distance)
+0243: Miami Gardens
+1) Miramar 7 (distance)
+2) Pembroke Pines 8 (distance)
+3) North Miami 8 (distance)
+0244: Carlsbad
+1) Oceanside 4 (distance)
+2) Vista 11 (distance)
+3) Encinitas 14 (distance)
+0245: Westminster
+1) Arvada 5 (distance)
+2) Thornton 6 (distance)
+3) Northglenn 8 (distance)
+0246: Rochester
+1) Lakeville 93 (distance)
+2) Apple Valley 99 (distance)
+3) La Crosse 102 (distance)
+0247: Odessa
+1) Midland 32 (distance)
+2) San Angelo 187 (distance)
+3) Lubbock 198 (distance)
+0248: Manchester
+1) Concord 24 (distance)
+2) Nashua 25 (distance)
+3) Methuen 36 (distance)
+0249: Elgin
+1) Streamwood 8 (distance)
+2) Bartlett 9 (distance)
+3) Carpentersville 9 (distance)
+0250: West Jordan
+1) South Jordan 5 (distance)
+2) Taylorsville 6 (distance)
+3) Murray 7 (distance)
+0251: Round Rock
+1) Pflugerville 9 (distance)
+2) Cedar Park 13 (distance)
+3) Georgetown 13 (distance)
+0252: Clearwater
+1) Largo 6 (distance)
+2) Pinellas Park 16 (distance)
+3) St. Petersburg 26 (distance)
+0253: Waterbury
+1) Bristol 15 (distance)
+2) Meriden 20 (distance)
+3) New Britain 25 (distance)
+0254: Gresham
+1) Portland 19 (distance)
+2) Lake Oswego 20 (distance)
+3) Vancouver 23 (distance)
+0255: Fairfield
+1) Vacaville 12 (distance)
+2) Napa 22 (distance)
+3) Vallejo 24 (distance)
+0256: Billings
+1) Bozeman 197 (distance)
+2) Great Falls 285 (distance)
+3) Casper 368 (distance)
+0257: Lowell
+1) Lawrence 14 (distance)
+2) Methuen 14 (distance)
+3) Nashua 19 (distance)
+0258: San Buenaventura (Ventura)
+1) Oxnard 9 (distance)
+2) Camarillo 18 (distance)
+3) Thousand Oaks 37 (distance)
+0259: Pueblo
+1) Colorado Springs 67 (distance)
+2) Castle Rock 126 (distance)
+3) Parker 141 (distance)
+0260: High Point
+1) Greensboro 23 (distance)
+2) Winston-Salem 26 (distance)
+3) Burlington 53 (distance)
+0261: West Covina
+1) Baldwin Park 2 (distance)
+2) Covina 5 (distance)
+3) La Puente 5 (distance)
+0262: Richmond
+1) Berkeley 9 (distance)
+2) Oakland 16 (distance)
+3) San Rafael 16 (distance)
+0263: Murrieta
+1) Temecula 9 (distance)
+2) Menifee 16 (distance)
+3) Lake Elsinore 16 (distance)
+0264: Cambridge
+1) Somerville 1 (distance)
+2) Boston 4 (distance)
+3) Medford 4 (distance)
+0265: Antioch
+1) Pittsburg 7 (distance)
+2) Oakley 8 (distance)
+3) Brentwood 12 (distance)
+0266: Temecula
+1) Murrieta 9 (distance)
+2) Menifee 22 (distance)
+3) Lake Elsinore 25 (distance)
+0267: Norwalk
+1) Bellflower 3 (distance)
+2) Cerritos 5 (distance)
+3) Downey 6 (distance)
+0268: Centennial
+1) Parker 12 (distance)
+2) Littleton 12 (distance)
+3) Aurora 16 (distance)
+0269: Everett
+1) Marysville 8 (distance)
+2) Edmonds 22 (distance)
+3) Shoreline 26 (distance)
+0270: Palm Bay
+1) Melbourne 5 (distance)
+2) Titusville 67 (distance)
+3) Fort Pierce 70 (distance)
+0271: Wichita Falls
+1) Lawton 77 (distance)
+2) Denton 148 (distance)
+3) Keller 160 (distance)
+0272: Green Bay
+1) Appleton 42 (distance)
+2) Oshkosh 68 (distance)
+3) Sheboygan 88 (distance)
+0273: Daly City
+1) South San Francisco 6 (distance)
+2) San Bruno 8 (distance)
+3) Pacifica 8 (distance)
+0274: Burbank
+1) Glendale 6 (distance)
+2) Los Angeles 15 (distance)
+3) Pasadena 15 (distance)
+0275: Richardson
+1) Plano 8 (distance)
+2) Garland 9 (distance)
+3) Carrollton 15 (distance)
+0276: Pompano Beach
+1) Coconut Creek 5 (distance)
+2) Oakland Park 7 (distance)
+3) Margate 8 (distance)
+0277: North Charleston
+1) Charleston 9 (distance)
+2) Mount Pleasant 13 (distance)
+3) Goose Creek 15 (distance)
+0278: Broken Arrow
+1) Tulsa 20 (distance)
+2) Muskogee 51 (distance)
+3) Stillwater 113 (distance)
+0279: Boulder
+1) Broomfield 18 (distance)
+2) Longmont 22 (distance)
+3) Northglenn 27 (distance)
+0280: West Palm Beach
+1) Greenacres 12 (distance)
+2) Palm Beach Gardens 14 (distance)
+3) Boynton Beach 20 (distance)
+0281: Santa Maria
+1) Lompoc 34 (distance)
+2) San Luis Obispo 41 (distance)
+3) Santa Barbara 89 (distance)
+0282: El Cajon
+1) Santee 4 (distance)
+2) La Mesa 6 (distance)
+3) National City 18 (distance)
+0283: Davenport
+1) Rock Island 1 (distance)
+2) Moline 5 (distance)
+3) Iowa City 80 (distance)
+0284: Rialto
+1) Fontana 6 (distance)
+2) Colton 6 (distance)
+3) San Bernardino 7 (distance)
+0285: Las Cruces
+1) El Paso 67 (distance)
+2) Roswell 240 (distance)
+3) Albuquerque 307 (distance)
+0286: San Mateo
+1) San Bruno 10 (distance)
+2) Redwood City 11 (distance)
+3) South San Francisco 12 (distance)
+0287: Lewisville
+1) Flower Mound 10 (distance)
+2) Coppell 10 (distance)
+3) The Colony 10 (distance)
+0288: South Bend
+1) Mishawaka 7 (distance)
+2) Elkhart 22 (distance)
+3) Portage 80 (distance)
+0289: Lakeland
+1) Tampa 50 (distance)
+2) Kissimmee 60 (distance)
+3) Winter Garden 68 (distance)
+0290: Erie
+1) Mentor 115 (distance)
+2) Warren 116 (distance)
+3) Youngstown 123 (distance)
+0291: Tyler
+1) Longview 55 (distance)
+2) Rockwall 126 (distance)
+3) Mesquite 130 (distance)
+0292: Pearland
+1) Friendswood 9 (distance)
+2) Pasadena 16 (distance)
+3) League City 19 (distance)
+0293: College Station
+1) Bryan 6 (distance)
+2) Huntsville 75 (distance)
+3) Conroe 91 (distance)
+0294: Kenosha
+1) Racine 16 (distance)
+2) Waukegan 24 (distance)
+3) Greenfield 44 (distance)
+0295: Sandy Springs
+1) Dunwoody 3 (distance)
+2) Brookhaven 8 (distance)
+3) Roswell 10 (distance)
+0296: Clovis
+1) Fresno 10 (distance)
+2) Madera 35 (distance)
+3) Hanford 55 (distance)
+0297: Flint
+1) Saginaw 50 (distance)
+2) Pontiac 52 (distance)
+3) Rochester Hills 58 (distance)
+0298: Roanoke
+1) Blacksburg 42 (distance)
+2) Lynchburg 72 (distance)
+3) Danville 90 (distance)
+0299: Albany
+1) Troy 9 (distance)
+2) Schenectady 23 (distance)
+3) Pittsfield 47 (distance)
+0300: Jurupa Valley
+1) Riverside 9 (distance)
+2) Eastvale 10 (distance)
+3) Fontana 11 (distance)
+0301: Compton
+1) Lynwood 3 (distance)
+2) Paramount 5 (distance)
+3) South Gate 6 (distance)
+0302: San Angelo
+1) Abilene 128 (distance)
+2) Midland 166 (distance)
+3) Odessa 187 (distance)
+0303: Hillsboro
+1) Beaverton 15 (distance)
+2) Tigard 19 (distance)
+3) Portland 24 (distance)
+0304: Lawton
+1) Wichita Falls 77 (distance)
+2) Norman 111 (distance)
+3) Moore 116 (distance)
+0305: Renton
+1) Burien 9 (distance)
+2) Kent 11 (distance)
+3) Bellevue 14 (distance)
+0306: Vista
+1) San Marcos 9 (distance)
+2) Carlsbad 11 (distance)
+3) Oceanside 12 (distance)
+0307: Davie
+1) Plantation 5 (distance)
+2) Pembroke Pines 8 (distance)
+3) Lauderhill 8 (distance)
+0308: Greeley
+1) Loveland 31 (distance)
+2) Fort Collins 36 (distance)
+3) Longmont 43 (distance)
+0309: Mission Viejo
+1) Lake Forest 5 (distance)
+2) Aliso Viejo 6 (distance)
+3) Rancho Santa Margarita 7 (distance)
+0310: Portsmouth
+1) Norfolk 2 (distance)
+2) Chesapeake 7 (distance)
+3) Hampton 22 (distance)
+0311: Dearborn
+1) Lincoln Park 7 (distance)
+2) Dearborn Heights 8 (distance)
+3) Detroit 10 (distance)
+0312: South Gate
+1) Lynwood 2 (distance)
+2) Huntington Park 3 (distance)
+3) Bell Gardens 5 (distance)
+0313: Tuscaloosa
+1) Hoover 73 (distance)
+2) Birmingham 79 (distance)
+3) Meridian 141 (distance)
+0314: Livonia
+1) Westland 6 (distance)
+2) Dearborn Heights 7 (distance)
+3) Farmington Hills 14 (distance)
+0315: New Bedford
+1) Fall River 19 (distance)
+2) Taunton 32 (distance)
+3) Warwick 40 (distance)
+0316: Vacaville
+1) Fairfield 12 (distance)
+2) Napa 26 (distance)
+3) Davis 30 (distance)
+0317: Brockton
+1) Weymouth Town 16 (distance)
+2) Quincy 18 (distance)
+3) Taunton 21 (distance)
+0318: Roswell
+1) Alpharetta 8 (distance)
+2) Dunwoody 8 (distance)
+3) Sandy Springs 10 (distance)
+0319: Beaverton
+1) Tigard 6 (distance)
+2) Portland 10 (distance)
+3) Lake Oswego 12 (distance)
+0320: Quincy
+1) Weymouth Town 6 (distance)
+2) Boston 12 (distance)
+3) Chelsea 15 (distance)
+0321: Sparks
+1) Reno 5 (distance)
+2) Carson City 41 (distance)
+3) Lincoln 150 (distance)
+0322: Yakima
+1) Richland 99 (distance)
+2) Kennewick 113 (distance)
+3) Pasco 115 (distance)
+0323: Lee's Summit
+1) Blue Springs 14 (distance)
+2) Independence 20 (distance)
+3) Overland Park 26 (distance)
+0324: Federal Way
+1) Auburn 6 (distance)
+2) Kent 8 (distance)
+3) Tacoma 12 (distance)
+0325: Carson
+1) Torrance 5 (distance)
+2) Gardena 6 (distance)
+3) Compton 9 (distance)
+0326: Santa Monica
+1) Culver City 8 (distance)
+2) Inglewood 14 (distance)
+3) Hawthorne 17 (distance)
+0327: Hesperia
+1) Victorville 12 (distance)
+2) Apple Valley 13 (distance)
+3) Highland 34 (distance)
+0328: Allen
+1) Plano 9 (distance)
+2) McKinney 10 (distance)
+3) Frisco 15 (distance)
+0329: Rio Rancho
+1) Albuquerque 17 (distance)
+2) Santa Fe 82 (distance)
+3) Farmington 217 (distance)
+0330: Yuma
+1) Calexico 81 (distance)
+2) El Centro 88 (distance)
+3) Coachella 181 (distance)
+0331: Westminster
+1) Garden Grove 5 (distance)
+2) Fountain Valley 5 (distance)
+3) Stanton 5 (distance)
+0332: Orem
+1) Provo 7 (distance)
+2) Lehi 16 (distance)
+3) Spanish Fork 20 (distance)
+0333: Lynn
+1) Peabody 7 (distance)
+2) Salem 7 (distance)
+3) Revere 8 (distance)
+0334: Redding
+1) Chico 106 (distance)
+2) Yuba City 173 (distance)
+3) Medford 197 (distance)
+0335: Spokane Valley
+1) Spokane 14 (distance)
+2) Coeur d'Alene 34 (distance)
+3) Pasco 212 (distance)
+0336: Miami Beach
+1) Miami 6 (distance)
+2) North Miami 12 (distance)
+3) Coral Gables 15 (distance)
+0337: League City
+1) Friendswood 10 (distance)
+2) Pearland 19 (distance)
+3) Pasadena 23 (distance)
+0338: Lawrence
+1) Olathe 37 (distance)
+2) Topeka 40 (distance)
+3) Lenexa 43 (distance)
+0339: Santa Barbara
+1) San Buenaventura (Ventura) 46 (distance)
+2) Oxnard 53 (distance)
+3) Camarillo 64 (distance)
+0340: Plantation
+1) Lauderhill 2 (distance)
+2) Sunrise 4 (distance)
+3) Davie 5 (distance)
+0341: Sandy
+1) Draper 4 (distance)
+2) South Jordan 7 (distance)
+3) West Jordan 9 (distance)
+0342: Sunrise
+1) Plantation 4 (distance)
+2) Lauderhill 5 (distance)
+3) Tamarac 5 (distance)
+0343: Macon
+1) Warner Robins 25 (distance)
+2) Atlanta 123 (distance)
+3) Athens-Clarke County 126 (distance)
+0344: Longmont
+1) Boulder 22 (distance)
+2) Loveland 25 (distance)
+3) Broomfield 27 (distance)
+0345: Boca Raton
+1) Deerfield Beach 6 (distance)
+2) Delray Beach 11 (distance)
+3) Coconut Creek 13 (distance)
+0346: San Marcos
+1) Escondido 7 (distance)
+2) Vista 9 (distance)
+3) Encinitas 16 (distance)
+0347: Greenville
+1) Wilson 51 (distance)
+2) Rocky Mount 52 (distance)
+3) Jacksonville 95 (distance)
+0348: Waukegan
+1) Kenosha 24 (distance)
+2) Buffalo Grove 24 (distance)
+3) Wheeling 25 (distance)
+0349: Fall River
+1) New Bedford 19 (distance)
+2) Warwick 21 (distance)
+3) East Providence 21 (distance)
+0350: Chico
+1) Yuba City 68 (distance)
+2) Lincoln 104 (distance)
+3) Redding 106 (distance)
+0351: Newton
+1) Waltham 4 (distance)
+2) Cambridge 9 (distance)
+3) Somerville 10 (distance)
+0352: San Leandro
+1) Alameda 8 (distance)
+2) Hayward 9 (distance)
+3) Oakland 13 (distance)
+0353: Reading
+1) Lancaster 46 (distance)
+2) Allentown 47 (distance)
+3) Bethlehem 57 (distance)
+0354: Norwalk
+1) Stamford 13 (distance)
+2) Bridgeport 19 (distance)
+3) Danbury 31 (distance)
+0355: Fort Smith
+1) Fayetteville 78 (distance)
+2) Springdale 92 (distance)
+3) Muskogee 96 (distance)
+0356: Newport Beach
+1) Costa Mesa 2 (distance)
+2) Huntington Beach 7 (distance)
+3) Fountain Valley 10 (distance)
+0357: Asheville
+1) Johnson City 81 (distance)
+2) Greenville 83 (distance)
+3) Spartanburg 91 (distance)
+0358: Nashua
+1) Lowell 19 (distance)
+2) Methuen 23 (distance)
+3) Manchester 25 (distance)
+0359: Edmond
+1) Oklahoma City 20 (distance)
+2) Midwest City 23 (distance)
+3) Moore 34 (distance)
+0360: Whittier
+1) Pico Rivera 5 (distance)
+2) La Mirada 7 (distance)
+3) Montebello 8 (distance)
+0361: Nampa
+1) Meridian 15 (distance)
+2) Caldwell 16 (distance)
+3) Boise City 29 (distance)
+0362: Bloomington
+1) Edina 6 (distance)
+2) Burnsville 8 (distance)
+3) Eagan 11 (distance)
+0363: Deltona
+1) Sanford 10 (distance)
+2) Altamonte Springs 28 (distance)
+3) Apopka 34 (distance)
+0364: Hawthorne
+1) Inglewood 5 (distance)
+2) Gardena 5 (distance)
+3) Redondo Beach 8 (distance)
+0365: Duluth
+1) Blaine 200 (distance)
+2) Coon Rapids 202 (distance)
+3) St. Cloud 209 (distance)
+0366: Carmel
+1) Fishers 9 (distance)
+2) Noblesville 11 (distance)
+3) Lawrence 17 (distance)
+0367: Suffolk
+1) Chesapeake 26 (distance)
+2) Portsmouth 28 (distance)
+3) Norfolk 29 (distance)
+0368: Clifton
+1) Passaic 2 (distance)
+2) Paterson 6 (distance)
+3) East Orange 10 (distance)
+0369: Citrus Heights
+1) Roseville 5 (distance)
+2) Folsom 9 (distance)
+3) Rocklin 10 (distance)
+0370: Livermore
+1) Pleasanton 9 (distance)
+2) Dublin 14 (distance)
+3) San Ramon 21 (distance)
+0371: Tracy
+1) Manteca 19 (distance)
+2) Stockton 26 (distance)
+3) Livermore 30 (distance)
+0372: Alhambra
+1) San Gabriel 1 (distance)
+2) Monterey Park 3 (distance)
+3) Rosemead 5 (distance)
+0373: Kirkland
+1) Redmond 6 (distance)
+2) Bellevue 7 (distance)
+3) Seattle 12 (distance)
+0374: Trenton
+1) New Brunswick 38 (distance)
+2) Sayreville 42 (distance)
+3) Camden 45 (distance)
+0375: Ogden
+1) Roy 8 (distance)
+2) Layton 18 (distance)
+3) Bountiful 37 (distance)
+0376: Hoover
+1) Birmingham 12 (distance)
+2) Tuscaloosa 73 (distance)
+3) Montgomery 124 (distance)
+0377: Cicero
+1) Berwyn 3 (distance)
+2) Oak Park 5 (distance)
+3) Chicago 10 (distance)
+0378: Fishers
+1) Carmel 9 (distance)
+2) Noblesville 9 (distance)
+3) Lawrence 13 (distance)
+0379: Sugar Land
+1) Missouri City 9 (distance)
+2) Houston 30 (distance)
+3) Pearland 34 (distance)
+0380: Danbury
+1) Bridgeport 31 (distance)
+2) Norwalk 31 (distance)
+3) Shelton 31 (distance)
+0381: Meridian
+1) Boise City 14 (distance)
+2) Nampa 15 (distance)
+3) Caldwell 24 (distance)
+0382: Indio
+1) Coachella 5 (distance)
+2) La Quinta 10 (distance)
+3) Palm Desert 14 (distance)
+0383: Concord
+1) Kannapolis 9 (distance)
+2) Huntersville 23 (distance)
+3) Charlotte 31 (distance)
+0384: Menifee
+1) Perris 10 (distance)
+2) Lake Elsinore 13 (distance)
+3) Murrieta 16 (distance)
+0385: Champaign
+1) Urbana 3 (distance)
+2) Decatur 67 (distance)
+3) Bloomington 75 (distance)
+0386: Buena Park
+1) La Mirada 5 (distance)
+2) Fullerton 6 (distance)
+3) Cerritos 6 (distance)
+0387: Troy
+1) Rochester Hills 5 (distance)
+2) Sterling Heights 10 (distance)
+3) Pontiac 12 (distance)
+0388: O'Fallon
+1) St. Peters 6 (distance)
+2) St. Charles 17 (distance)
+3) Chesterfield 19 (distance)
+0389: Johns Creek
+1) Peachtree Corners 6 (distance)
+2) Alpharetta 10 (distance)
+3) Roswell 15 (distance)
+0390: Bellingham
+1) Marysville 80 (distance)
+2) Everett 88 (distance)
+3) Edmonds 104 (distance)
+0391: Westland
+1) Livonia 6 (distance)
+2) Dearborn Heights 10 (distance)
+3) Taylor 14 (distance)
+0392: Bloomington
+1) Columbus 52 (distance)
+2) Greenwood 61 (distance)
+3) Indianapolis 74 (distance)
+0393: Sioux City
+1) Sioux Falls 119 (distance)
+2) Omaha 142 (distance)
+3) Council Bluffs 144 (distance)
+0394: Warwick
+1) Cranston 9 (distance)
+2) Providence 13 (distance)
+3) East Providence 13 (distance)
+0395: Hemet
+1) San Jacinto 4 (distance)
+2) Menifee 20 (distance)
+3) Beaumont 20 (distance)
+0396: Longview
+1) Tyler 55 (distance)
+2) Shreveport 92 (distance)
+3) Bossier City 94 (distance)
+0397: Farmington Hills
+1) Novi 9 (distance)
+2) Southfield 12 (distance)
+3) Livonia 14 (distance)
+0398: Bend
+1) Springfield 136 (distance)
+2) Eugene 141 (distance)
+3) Albany 156 (distance)
+0399: Lakewood
+1) Bellflower 3 (distance)
+2) Paramount 4 (distance)
+3) Cerritos 6 (distance)
+0400: Merced
+1) Turlock 38 (distance)
+2) Madera 53 (distance)
+3) Ceres 53 (distance)
+0401: Mission
+1) McAllen 9 (distance)
+2) Pharr 14 (distance)
+3) Edinburg 18 (distance)
+0402: Chino
+1) Chino Hills 4 (distance)
+2) Ontario 6 (distance)
+3) Pomona 7 (distance)
+0403: Redwood City
+1) Palo Alto 9 (distance)
+2) San Mateo 11 (distance)
+3) Mountain View 17 (distance)
+0404: Edinburg
+1) McAllen 12 (distance)
+2) Pharr 12 (distance)
+3) Mission 18 (distance)
+0405: Cranston
+1) Providence 5 (distance)
+2) East Providence 6 (distance)
+3) Warwick 9 (distance)
+0406: Parma
+1) Cleveland 10 (distance)
+2) Lakewood 10 (distance)
+3) Strongsville 13 (distance)
+0407: New Rochelle
+1) Mount Vernon 4 (distance)
+2) Yonkers 10 (distance)
+3) White Plains 13 (distance)
+0408: Lake Forest
+1) Mission Viejo 5 (distance)
+2) Rancho Santa Margarita 8 (distance)
+3) Aliso Viejo 9 (distance)
+0409: Napa
+1) Vallejo 21 (distance)
+2) Fairfield 22 (distance)
+3) Vacaville 26 (distance)
+0410: Hammond
+1) Calumet City 4 (distance)
+2) Gary 12 (distance)
+3) Tinley Park 24 (distance)
+0411: Fayetteville
+1) Springdale 14 (distance)
+2) Rogers 30 (distance)
+3) Bentonville 34 (distance)
+0412: Bloomington
+1) Normal 3 (distance)
+2) Peoria 55 (distance)
+3) Decatur 71 (distance)
+0413: Avondale
+1) Goodyear 0 (distance)
+2) Glendale 19 (distance)
+3) Peoria 19 (distance)
+0414: Somerville
+1) Cambridge 1 (distance)
+2) Medford 3 (distance)
+3) Boston 4 (distance)
+0415: Palm Coast
+1) Ormond Beach 36 (distance)
+2) Daytona Beach 45 (distance)
+3) Port Orange 53 (distance)
+0416: Bryan
+1) College Station 6 (distance)
+2) Huntsville 78 (distance)
+3) Conroe 96 (distance)
+0417: Gary
+1) Hammond 12 (distance)
+2) Calumet City 15 (distance)
+3) Oak Lawn 36 (distance)
+0418: Largo
+1) Clearwater 6 (distance)
+2) Pinellas Park 11 (distance)
+3) St. Petersburg 20 (distance)
+0419: Brooklyn Park
+1) Maple Grove 8 (distance)
+2) Coon Rapids 9 (distance)
+3) Plymouth 12 (distance)
+0420: Tustin
+1) Santa Ana 3 (distance)
+2) Orange 5 (distance)
+3) Irvine 7 (distance)
+0421: Racine
+1) Kenosha 16 (distance)
+2) Greenfield 32 (distance)
+3) Milwaukee 36 (distance)
+0422: Deerfield Beach
+1) Boca Raton 6 (distance)
+2) Pompano Beach 9 (distance)
+3) Coconut Creek 10 (distance)
+0423: Lynchburg
+1) Roanoke 72 (distance)
+2) Charlottesville 90 (distance)
+3) Danville 94 (distance)
+0424: Mountain View
+1) Sunnyvale 4 (distance)
+2) Palo Alto 8 (distance)
+3) Cupertino 8 (distance)
+0425: Medford
+1) Springfield 191 (distance)
+2) Eugene 192 (distance)
+3) Redding 197 (distance)
+0426: Lawrence
+1) Methuen 3 (distance)
+2) Haverhill 10 (distance)
+3) Lowell 14 (distance)
+0427: Bellflower
+1) Norwalk 3 (distance)
+2) Lakewood 3 (distance)
+3) Paramount 4 (distance)
+0428: Melbourne
+1) Palm Bay 5 (distance)
+2) Titusville 61 (distance)
+3) St. Cloud 68 (distance)
+0429: St. Joseph
+1) Kansas City 75 (distance)
+2) Kansas City 77 (distance)
+3) Independence 83 (distance)
+0430: Camden
+1) Philadelphia 4 (distance)
+2) Wilmington 41 (distance)
+3) Trenton 45 (distance)
+0431: St. George
+1) North Las Vegas 170 (distance)
+2) Henderson 172 (distance)
+3) Las Vegas 173 (distance)
+0432: Kennewick
+1) Pasco 4 (distance)
+2) Richland 14 (distance)
+3) Yakima 113 (distance)
+0433: Baldwin Park
+1) West Covina 2 (distance)
+2) El Monte 6 (distance)
+3) Covina 6 (distance)
+0434: Chino Hills
+1) Chino 4 (distance)
+2) Pomona 7 (distance)
+3) Diamond Bar 8 (distance)
+0435: Alameda
+1) Oakland 5 (distance)
+2) San Leandro 8 (distance)
+3) Berkeley 12 (distance)
+0436: Albany
+1) Valdosta 117 (distance)
+2) Dothan 123 (distance)
+3) Columbus 125 (distance)
+0437: Arlington Heights
+1) Mount Prospect 4 (distance)
+2) Palatine 5 (distance)
+3) Wheeling 7 (distance)
+0438: Scranton
+1) Wilkes-Barre 25 (distance)
+2) Binghamton 79 (distance)
+3) Allentown 90 (distance)
+0439: Evanston
+1) Skokie 4 (distance)
+2) Glenview 8 (distance)
+3) Park Ridge 13 (distance)
+0440: Kalamazoo
+1) Portage 10 (distance)
+2) Battle Creek 33 (distance)
+3) Kentwood 64 (distance)
+0441: Baytown
+1) Pasadena 22 (distance)
+2) League City 27 (distance)
+3) Friendswood 31 (distance)
+0442: Upland
+1) Ontario 3 (distance)
+2) Montclair 4 (distance)
+3) Rancho Cucamonga 5 (distance)
+0443: Springdale
+1) Fayetteville 14 (distance)
+2) Rogers 16 (distance)
+3) Bentonville 21 (distance)
+0444: Bethlehem
+1) Allentown 10 (distance)
+2) Reading 57 (distance)
+3) Trenton 69 (distance)
+0445: Schaumburg
+1) Hoffman Estates 4 (distance)
+2) Hanover Park 6 (distance)
+3) Streamwood 7 (distance)
+0446: Mount Pleasant
+1) Charleston 11 (distance)
+2) North Charleston 13 (distance)
+3) Goose Creek 25 (distance)
+0447: Auburn
+1) Federal Way 6 (distance)
+2) Kent 8 (distance)
+3) Puyallup 14 (distance)
+0448: Decatur
+1) Springfield 59 (distance)
+2) Champaign 67 (distance)
+3) Urbana 70 (distance)
+0449: San Ramon
+1) Danville 5 (distance)
+2) Dublin 9 (distance)
+3) Hayward 15 (distance)
+0450: Pleasanton
+1) Dublin 6 (distance)
+2) Livermore 9 (distance)
+3) San Ramon 15 (distance)
+0451: Wyoming
+1) Grand Rapids 6 (distance)
+2) Kentwood 6 (distance)
+3) Muskegon 56 (distance)
+0452: Lake Charles
+1) Port Arthur 79 (distance)
+2) Beaumont 88 (distance)
+3) Lafayette 115 (distance)
+0453: Plymouth
+1) Maple Grove 6 (distance)
+2) St. Louis Park 8 (distance)
+3) Minnetonka 9 (distance)
+0454: Bolingbrook
+1) Romeoville 5 (distance)
+2) Naperville 9 (distance)
+3) Downers Grove 13 (distance)
+0455: Pharr
+1) McAllen 4 (distance)
+2) Edinburg 12 (distance)
+3) Mission 14 (distance)
+0456: Appleton
+1) Oshkosh 28 (distance)
+2) Green Bay 42 (distance)
+3) Fond du Lac 54 (distance)
+0457: Gastonia
+1) Charlotte 31 (distance)
+2) Huntersville 35 (distance)
+3) Rock Hill 40 (distance)
+0458: Folsom
+1) Citrus Heights 9 (distance)
+2) Roseville 12 (distance)
+3) Rocklin 13 (distance)
+0459: Southfield
+1) Royal Oak 6 (distance)
+2) Farmington Hills 12 (distance)
+3) Livonia 15 (distance)
+0460: Rochester Hills
+1) Troy 5 (distance)
+2) Pontiac 11 (distance)
+3) Sterling Heights 13 (distance)
+0461: New Britain
+1) Hartford 13 (distance)
+2) Meriden 13 (distance)
+3) Bristol 14 (distance)
+0462: Goodyear
+1) Avondale 0 (distance)
+2) Glendale 19 (distance)
+3) Peoria 19 (distance)
+0463: Canton
+1) Akron 33 (distance)
+2) Cuyahoga Falls 38 (distance)
+3) Warren 67 (distance)
+0464: Warner Robins
+1) Macon 25 (distance)
+2) Albany 125 (distance)
+3) Columbus 128 (distance)
+0465: Union City
+1) Fremont 6 (distance)
+2) Newark 7 (distance)
+3) Hayward 8 (distance)
+0466: Perris
+1) Menifee 10 (distance)
+2) Lake Elsinore 15 (distance)
+3) Moreno Valley 17 (distance)
+0467: Manteca
+1) Stockton 18 (distance)
+2) Tracy 19 (distance)
+3) Modesto 26 (distance)
+0468: Iowa City
+1) Cedar Rapids 36 (distance)
+2) Davenport 80 (distance)
+3) Rock Island 80 (distance)
+0469: Jonesboro
+1) Memphis 97 (distance)
+2) Bartlett 103 (distance)
+3) Southaven 113 (distance)
+0470: Wilmington
+1) Philadelphia 39 (distance)
+2) Camden 41 (distance)
+3) Vineland 52 (distance)
+0471: Lynwood
+1) South Gate 2 (distance)
+2) Compton 3 (distance)
+3) Huntington Park 5 (distance)
+0472: Loveland
+1) Fort Collins 20 (distance)
+2) Longmont 25 (distance)
+3) Greeley 31 (distance)
+0473: Pawtucket
+1) Providence 6 (distance)
+2) East Providence 7 (distance)
+3) Attleboro 10 (distance)
+0474: Boynton Beach
+1) Delray Beach 8 (distance)
+2) Greenacres 11 (distance)
+3) Boca Raton 18 (distance)
+0475: Waukesha
+1) New Berlin 10 (distance)
+2) Brookfield 11 (distance)
+3) West Allis 18 (distance)
+0476: Gulfport
+1) Biloxi 20 (distance)
+2) New Orleans 104 (distance)
+3) Mobile 107 (distance)
+0477: Apple Valley
+1) Victorville 10 (distance)
+2) Hesperia 13 (distance)
+3) Highland 41 (distance)
+0478: Passaic
+1) Clifton 2 (distance)
+2) Paterson 7 (distance)
+3) Hackensack 7 (distance)
+0479: Rapid City
+1) Casper 282 (distance)
+2) Cheyenne 351 (distance)
+3) Bismarck 358 (distance)
+0480: Layton
+1) Roy 12 (distance)
+2) Ogden 18 (distance)
+3) Bountiful 20 (distance)
+0481: Lafayette
+1) Kokomo 63 (distance)
+2) Carmel 80 (distance)
+3) Noblesville 84 (distance)
+0482: Turlock
+1) Ceres 14 (distance)
+2) Modesto 20 (distance)
+3) Merced 38 (distance)
+0483: Muncie
+1) Anderson 26 (distance)
+2) Noblesville 55 (distance)
+3) Fishers 59 (distance)
+0484: Temple
+1) Killeen 36 (distance)
+2) Waco 53 (distance)
+3) Georgetown 60 (distance)
+0485: Missouri City
+1) Sugar Land 9 (distance)
+2) Houston 22 (distance)
+3) Pearland 25 (distance)
+0486: Redlands
+1) Highland 8 (distance)
+2) San Bernardino 11 (distance)
+3) Colton 12 (distance)
+0487: Santa Fe
+1) Rio Rancho 82 (distance)
+2) Albuquerque 90 (distance)
+3) Farmington 235 (distance)
+0488: Lauderhill
+1) Plantation 2 (distance)
+2) Sunrise 5 (distance)
+3) Fort Lauderdale 7 (distance)
+0489: Milpitas
+1) Santa Clara 9 (distance)
+2) San Jose 10 (distance)
+3) Sunnyvale 13 (distance)
+0490: Palatine
+1) Arlington Heights 5 (distance)
+2) Hoffman Estates 8 (distance)
+3) Buffalo Grove 8 (distance)
+0491: Missoula
+1) Great Falls 216 (distance)
+2) Coeur d'Alene 228 (distance)
+3) Spokane Valley 260 (distance)
+0492: Rock Hill
+1) Charlotte 37 (distance)
+2) Gastonia 40 (distance)
+3) Huntersville 56 (distance)
+0493: Jacksonville
+1) Wilmington 75 (distance)
+2) Greenville 95 (distance)
+3) Wilson 116 (distance)
+0494: Franklin
+1) Brentwood 14 (distance)
+2) Nashville-Davidson 27 (distance)
+3) Smyrna 32 (distance)
+0495: Flagstaff
+1) Prescott Valley 89 (distance)
+2) Prescott 104 (distance)
+3) Surprise 186 (distance)
+0496: Flower Mound
+1) Grapevine 9 (distance)
+2) Lewisville 10 (distance)
+3) Coppell 10 (distance)
+0497: Weston
+1) Pembroke Pines 14 (distance)
+2) Davie 14 (distance)
+3) Miramar 15 (distance)
+0498: Waterloo
+1) Cedar Falls 9 (distance)
+2) Cedar Rapids 79 (distance)
+3) Iowa City 114 (distance)
+0499: Union City
+1) Elizabeth 5 (distance)
+2) Newark 8 (distance)
+3) Linden 8 (distance)
+0500: Mount Vernon
+1) New Rochelle 4 (distance)
+2) Yonkers 5 (distance)
+3) White Plains 14 (distance)
+0501: Fort Myers
+1) Cape Coral 11 (distance)
+2) Bonita Springs 34 (distance)
+3) North Port 57 (distance)
+0502: Dothan
+1) Panama City 121 (distance)
+2) Albany 123 (distance)
+3) Tallahassee 137 (distance)
+0503: Rancho Cordova
+1) Citrus Heights 13 (distance)
+2) Folsom 14 (distance)
+3) Sacramento 16 (distance)
+0504: Redondo Beach
+1) Torrance 4 (distance)
+2) Hawthorne 8 (distance)
+3) Gardena 8 (distance)
+0505: Jackson
+1) Collierville 100 (distance)
+2) Bartlett 106 (distance)
+3) Germantown 107 (distance)
+0506: Pasco
+1) Kennewick 4 (distance)
+2) Richland 15 (distance)
+3) Yakima 115 (distance)
+0507: St. Charles
+1) St. Peters 11 (distance)
+2) Florissant 15 (distance)
+3) Chesterfield 15 (distance)
+0508: Eau Claire
+1) La Crosse 114 (distance)
+2) Woodbury 115 (distance)
+3) Rochester 118 (distance)
+0509: North Richland Hills
+1) Haltom City 5 (distance)
+2) Hurst 5 (distance)
+3) Bedford 8 (distance)
+0510: Bismarck
+1) Minot 162 (distance)
+2) Fargo 303 (distance)
+3) Moorhead 305 (distance)
+0511: Yorba Linda
+1) Placentia 5 (distance)
+2) Brea 8 (distance)
+3) Fullerton 10 (distance)
+0512: Kenner
+1) New Orleans 17 (distance)
+2) Baton Rouge 100 (distance)
+3) Gulfport 117 (distance)
+0513: Walnut Creek
+1) Concord 8 (distance)
+2) Danville 11 (distance)
+3) Martinez 13 (distance)
+0514: Frederick
+1) Gaithersburg 35 (distance)
+2) Leesburg 35 (distance)
+3) Hagerstown 36 (distance)
+0515: Oshkosh
+1) Appleton 28 (distance)
+2) Fond du Lac 29 (distance)
+3) Green Bay 68 (distance)
+0516: Pittsburg
+1) Antioch 7 (distance)
+2) Concord 13 (distance)
+3) Oakley 15 (distance)
+0517: Palo Alto
+1) Mountain View 8 (distance)
+2) Redwood City 9 (distance)
+3) Sunnyvale 12 (distance)
+0518: Bossier City
+1) Shreveport 1 (distance)
+2) Longview 94 (distance)
+3) Texarkana 105 (distance)
+0519: Portland
+1) Concord 115 (distance)
+2) Haverhill 118 (distance)
+3) Manchester 122 (distance)
+0520: St. Cloud
+1) Maple Grove 77 (distance)
+2) Coon Rapids 79 (distance)
+3) Brooklyn Park 81 (distance)
+0521: Davis
+1) Woodland 15 (distance)
+2) West Sacramento 18 (distance)
+3) Sacramento 21 (distance)
+0522: South San Francisco
+1) San Bruno 2 (distance)
+2) Daly City 6 (distance)
+3) Pacifica 8 (distance)
+0523: Camarillo
+1) Oxnard 12 (distance)
+2) San Buenaventura (Ventura) 18 (distance)
+3) Thousand Oaks 19 (distance)
+0524: North Little Rock
+1) Little Rock 3 (distance)
+2) Conway 38 (distance)
+3) Pine Bluff 64 (distance)
+0525: Schenectady
+1) Troy 22 (distance)
+2) Albany 23 (distance)
+3) Pittsfield 69 (distance)
+0526: Gaithersburg
+1) Rockville 7 (distance)
+2) Washington 29 (distance)
+3) Leesburg 31 (distance)
+0527: Harlingen
+1) Weslaco 29 (distance)
+2) Brownsville 37 (distance)
+3) Edinburg 48 (distance)
+0528: Woodbury
+1) Maplewood 4 (distance)
+2) St. Paul 10 (distance)
+3) Eagan 21 (distance)
+0529: Eagan
+1) Apple Valley 8 (distance)
+2) Burnsville 9 (distance)
+3) Bloomington 11 (distance)
+0530: Yuba City
+1) Lincoln 39 (distance)
+2) Rocklin 50 (distance)
+3) Roseville 51 (distance)
+0531: Maple Grove
+1) Plymouth 6 (distance)
+2) Brooklyn Park 8 (distance)
+3) St. Louis Park 14 (distance)
+0532: Youngstown
+1) Warren 20 (distance)
+2) Canton 69 (distance)
+3) Cuyahoga Falls 70 (distance)
+0533: Skokie
+1) Evanston 4 (distance)
+2) Glenview 5 (distance)
+3) Park Ridge 8 (distance)
+0534: Kissimmee
+1) St. Cloud 13 (distance)
+2) Orlando 27 (distance)
+3) Ocoee 33 (distance)
+0535: Johnson City
+1) Kingsport 32 (distance)
+2) Asheville 81 (distance)
+3) Hickory 111 (distance)
+0536: Victoria
+1) Corpus Christi 118 (distance)
+2) New Braunfels 147 (distance)
+3) San Marcos 150 (distance)
+0537: San Clemente
+1) Laguna Niguel 13 (distance)
+2) Aliso Viejo 18 (distance)
+3) Mission Viejo 20 (distance)
+0538: Bayonne
+1) Jersey City 7 (distance)
+2) Newark 8 (distance)
+3) Elizabeth 8 (distance)
+0539: Laguna Niguel
+1) Aliso Viejo 5 (distance)
+2) Mission Viejo 9 (distance)
+3) Lake Forest 13 (distance)
+0540: East Orange
+1) Newark 4 (distance)
+2) Kearny 5 (distance)
+3) Union City 9 (distance)
+0541: Shawnee
+1) Overland Park 5 (distance)
+2) Lenexa 7 (distance)
+3) Kansas City 12 (distance)
+0542: Homestead
+1) Cutler Bay 18 (distance)
+2) Coral Gables 35 (distance)
+3) Doral 40 (distance)
+0543: Rockville
+1) Gaithersburg 7 (distance)
+2) Washington 22 (distance)
+3) Alexandria 32 (distance)
+0544: Delray Beach
+1) Boynton Beach 8 (distance)
+2) Boca Raton 11 (distance)
+3) Deerfield Beach 16 (distance)
+0545: Janesville
+1) Beloit 19 (distance)
+2) Rockford 46 (distance)
+3) Madison 53 (distance)
+0546: Conway
+1) North Little Rock 38 (distance)
+2) Little Rock 40 (distance)
+3) Pine Bluff 103 (distance)
+0547: Pico Rivera
+1) Montebello 4 (distance)
+2) Downey 5 (distance)
+3) Whittier 5 (distance)
+0548: Lorain
+1) Elyria 11 (distance)
+2) Lakewood 32 (distance)
+3) Strongsville 32 (distance)
+0549: Montebello
+1) Pico Rivera 4 (distance)
+2) Monterey Park 5 (distance)
+3) Bell Gardens 6 (distance)
+0550: Lodi
+1) Stockton 19 (distance)
+2) Elk Grove 31 (distance)
+3) Manteca 37 (distance)
+0551: New Braunfels
+1) San Marcos 26 (distance)
+2) San Antonio 47 (distance)
+3) Austin 72 (distance)
+0552: Marysville
+1) Everett 8 (distance)
+2) Edmonds 30 (distance)
+3) Shoreline 35 (distance)
+0553: Tamarac
+1) North Lauderdale 2 (distance)
+2) Sunrise 5 (distance)
+3) Margate 5 (distance)
+0554: Madera
+1) Fresno 35 (distance)
+2) Clovis 35 (distance)
+3) Merced 53 (distance)
+0555: Conroe
+1) Huntsville 46 (distance)
+2) Houston 61 (distance)
+3) Pasadena 73 (distance)
+0556: Santa Cruz
+1) Watsonville 25 (distance)
+2) Campbell 35 (distance)
+3) Morgan Hill 37 (distance)
+0557: Eden Prairie
+1) Minnetonka 7 (distance)
+2) Shakopee 7 (distance)
+3) Edina 10 (distance)
+0558: Cheyenne
+1) Fort Collins 65 (distance)
+2) Greeley 80 (distance)
+3) Loveland 85 (distance)
+0559: Daytona Beach
+1) Port Orange 8 (distance)
+2) Ormond Beach 8 (distance)
+3) Deltona 41 (distance)
+0560: Alpharetta
+1) Roswell 8 (distance)
+2) Johns Creek 10 (distance)
+3) Peachtree Corners 13 (distance)
+0561: Hamilton
+1) Fairfield 6 (distance)
+2) Middletown 19 (distance)
+3) Cincinnati 33 (distance)
+0562: Waltham
+1) Newton 4 (distance)
+2) Cambridge 10 (distance)
+3) Somerville 11 (distance)
+0563: Coon Rapids
+1) Blaine 5 (distance)
+2) Brooklyn Park 9 (distance)
+3) Maple Grove 16 (distance)
+0564: Haverhill
+1) Lawrence 10 (distance)
+2) Methuen 10 (distance)
+3) Lowell 25 (distance)
+0565: Council Bluffs
+1) Omaha 11 (distance)
+2) Bellevue 12 (distance)
+3) Lincoln 84 (distance)
+0566: Taylor
+1) Lincoln Park 7 (distance)
+2) Dearborn Heights 10 (distance)
+3) Dearborn 11 (distance)
+0567: Utica
+1) Syracuse 74 (distance)
+2) Schenectady 109 (distance)
+3) Binghamton 124 (distance)
+0568: Ames
+1) Ankeny 33 (distance)
+2) Urbandale 46 (distance)
+3) Des Moines 48 (distance)
+0569: La Habra
+1) Brea 4 (distance)
+2) La Mirada 6 (distance)
+3) Fullerton 7 (distance)
+0570: Encinitas
+1) Carlsbad 14 (distance)
+2) San Marcos 16 (distance)
+3) Vista 18 (distance)
+0571: Bowling Green
+1) Hendersonville 74 (distance)
+2) Clarksville 92 (distance)
+3) Nashville-Davidson 93 (distance)
+0572: Burnsville
+1) Apple Valley 6 (distance)
+2) Bloomington 8 (distance)
+3) Eagan 9 (distance)
+0573: Greenville
+1) Spartanburg 43 (distance)
+2) Asheville 83 (distance)
+3) Gastonia 118 (distance)
+0574: West Des Moines
+1) Urbandale 5 (distance)
+2) Des Moines 8 (distance)
+3) Ankeny 19 (distance)
+0575: Cedar Park
+1) Round Rock 13 (distance)
+2) Georgetown 19 (distance)
+3) Pflugerville 20 (distance)
+0576: Tulare
+1) Visalia 14 (distance)
+2) Hanford 29 (distance)
+3) Porterville 33 (distance)
+0577: Monterey Park
+1) Alhambra 3 (distance)
+2) San Gabriel 4 (distance)
+3) Montebello 5 (distance)
+0578: Vineland
+1) Camden 49 (distance)
+2) Wilmington 52 (distance)
+3) Philadelphia 53 (distance)
+0579: Terre Haute
+1) Bloomington 83 (distance)
+2) Urbana 98 (distance)
+3) Champaign 101 (distance)
+0580: North Miami
+1) North Miami Beach 5 (distance)
+2) Miami Gardens 8 (distance)
+3) Aventura 8 (distance)
+0581: Mansfield
+1) Burleson 16 (distance)
+2) Cedar Hill 17 (distance)
+3) Arlington 19 (distance)
+0582: West Allis
+1) Wauwatosa 3 (distance)
+2) Greenfield 6 (distance)
+3) Milwaukee 8 (distance)
+0583: Bristol
+1) New Britain 14 (distance)
+2) Waterbury 15 (distance)
+3) Meriden 18 (distance)
+0584: Taylorsville
+1) Murray 4 (distance)
+2) West Valley City 5 (distance)
+3) West Jordan 6 (distance)
+0585: Malden
+1) Everett 2 (distance)
+2) Medford 3 (distance)
+3) Somerville 4 (distance)
+0586: Meriden
+1) New Britain 13 (distance)
+2) Middletown 13 (distance)
+3) Bristol 18 (distance)
+0587: Blaine
+1) Coon Rapids 5 (distance)
+2) Brooklyn Park 12 (distance)
+3) Maple Grove 19 (distance)
+0588: Wellington
+1) Greenacres 13 (distance)
+2) West Palm Beach 22 (distance)
+3) Boynton Beach 22 (distance)
+0589: Cupertino
+1) Sunnyvale 5 (distance)
+2) Santa Clara 7 (distance)
+3) Mountain View 8 (distance)
+0590: Springfield
+1) Eugene 5 (distance)
+2) Corvallis 60 (distance)
+3) Albany 65 (distance)
+0591: Rogers
+1) Bentonville 9 (distance)
+2) Springdale 16 (distance)
+3) Fayetteville 30 (distance)
+0592: St. Clair Shores
+1) Roseville 3 (distance)
+2) Warren 9 (distance)
+3) Sterling Heights 14 (distance)
+0593: Gardena
+1) Hawthorne 5 (distance)
+2) Torrance 6 (distance)
+3) Carson 6 (distance)
+0594: Pontiac
+1) Rochester Hills 11 (distance)
+2) Troy 12 (distance)
+3) Farmington Hills 16 (distance)
+0595: National City
+1) Chula Vista 4 (distance)
+2) San Diego 7 (distance)
+3) La Mesa 12 (distance)
+0596: Grand Junction
+1) Farmington 261 (distance)
+2) Spanish Fork 290 (distance)
+3) Provo 296 (distance)
+0597: Rocklin
+1) Roseville 6 (distance)
+2) Citrus Heights 10 (distance)
+3) Lincoln 12 (distance)
+0598: Chapel Hill
+1) Durham 16 (distance)
+2) Apex 27 (distance)
+3) Cary 28 (distance)
+0599: Casper
+1) Cheyenne 228 (distance)
+2) Fort Collins 273 (distance)
+3) Rapid City 282 (distance)
+0600: Broomfield
+1) Northglenn 9 (distance)
+2) Westminster 10 (distance)
+3) Thornton 11 (distance)
+0601: Petaluma
+1) Rohnert Park 13 (distance)
+2) Novato 15 (distance)
+3) Santa Rosa 24 (distance)
+0602: South Jordan
+1) Riverton 4 (distance)
+2) West Jordan 5 (distance)
+3) Draper 6 (distance)
+0603: Springfield
+1) Huber Heights 28 (distance)
+2) Beavercreek 32 (distance)
+3) Dayton 37 (distance)
+0604: Great Falls
+1) Bozeman 202 (distance)
+2) Missoula 216 (distance)
+3) Billings 285 (distance)
+0605: Lancaster
+1) York 36 (distance)
+2) Reading 46 (distance)
+3) Harrisburg 55 (distance)
+0606: North Port
+1) Sarasota 43 (distance)
+2) Fort Myers 57 (distance)
+3) Cape Coral 60 (distance)
+0607: Lakewood
+1) Tacoma 10 (distance)
+2) Puyallup 17 (distance)
+3) Federal Way 22 (distance)
+0608: Marietta
+1) Smyrna 8 (distance)
+2) Sandy Springs 16 (distance)
+3) Roswell 19 (distance)
+0609: San Rafael
+1) Novato 15 (distance)
+2) Richmond 16 (distance)
+3) San Francisco 24 (distance)
+0610: Royal Oak
+1) Southfield 6 (distance)
+2) Warren 11 (distance)
+3) Sterling Heights 13 (distance)
+0611: Des Plaines
+1) Park Ridge 4 (distance)
+2) Mount Prospect 5 (distance)
+3) Glenview 8 (distance)
+0612: Huntington Park
+1) South Gate 3 (distance)
+2) Lynwood 5 (distance)
+3) Bell Gardens 7 (distance)
+0613: La Mesa
+1) El Cajon 6 (distance)
+2) Santee 9 (distance)
+3) National City 12 (distance)
+0614: Orland Park
+1) Tinley Park 8 (distance)
+2) Oak Lawn 13 (distance)
+3) Bolingbrook 19 (distance)
+0615: Auburn
+1) Phenix City 47 (distance)
+2) Columbus 49 (distance)
+3) Montgomery 81 (distance)
+0616: Lakeville
+1) Apple Valley 9 (distance)
+2) Burnsville 13 (distance)
+3) Eagan 18 (distance)
+0617: Owensboro
+1) Evansville 46 (distance)
+2) Bowling Green 105 (distance)
+3) Louisville/Jefferson County 130 (distance)
+0618: Moore
+1) Norman 13 (distance)
+2) Oklahoma City 14 (distance)
+3) Midwest City 14 (distance)
+0619: Jupiter
+1) Palm Beach Gardens 13 (distance)
+2) West Palm Beach 24 (distance)
+3) Wellington 34 (distance)
+0620: Idaho Falls
+1) Pocatello 76 (distance)
+2) Logan 195 (distance)
+3) Twin Falls 222 (distance)
+0621: Dubuque
+1) Cedar Rapids 100 (distance)
+2) Davenport 108 (distance)
+3) Rock Island 110 (distance)
+0622: Bartlett
+1) Germantown 14 (distance)
+2) Memphis 17 (distance)
+3) Collierville 26 (distance)
+0623: Rowlett
+1) Garland 7 (distance)
+2) Rockwall 10 (distance)
+3) Wylie 12 (distance)
+0624: Novi
+1) Farmington Hills 9 (distance)
+2) Livonia 16 (distance)
+3) Westland 18 (distance)
+0625: White Plains
+1) New Rochelle 13 (distance)
+2) Mount Vernon 14 (distance)
+3) Yonkers 16 (distance)
+0626: Arcadia
+1) Monrovia 3 (distance)
+2) El Monte 7 (distance)
+3) Rosemead 7 (distance)
+0627: Redmond
+1) Kirkland 6 (distance)
+2) Bellevue 9 (distance)
+3) Sammamish 9 (distance)
+0628: Lake Elsinore
+1) Menifee 13 (distance)
+2) Perris 15 (distance)
+3) Murrieta 16 (distance)
+0629: Ocala
+1) Gainesville 54 (distance)
+2) Apopka 80 (distance)
+3) Winter Garden 87 (distance)
+0630: Tinley Park
+1) Orland Park 8 (distance)
+2) Oak Lawn 16 (distance)
+3) Calumet City 22 (distance)
+0631: Port Orange
+1) Daytona Beach 8 (distance)
+2) Ormond Beach 17 (distance)
+3) Deltona 37 (distance)
+0632: Medford
+1) Somerville 3 (distance)
+2) Malden 3 (distance)
+3) Cambridge 4 (distance)
+0633: Oak Lawn
+1) Cicero 13 (distance)
+2) Orland Park 13 (distance)
+3) Berwyn 15 (distance)
+0634: Rocky Mount
+1) Wilson 26 (distance)
+2) Greenville 52 (distance)
+3) Raleigh 78 (distance)
+0635: Kokomo
+1) Noblesville 50 (distance)
+2) Carmel 56 (distance)
+3) Anderson 57 (distance)
+0636: Coconut Creek
+1) Margate 2 (distance)
+2) Pompano Beach 5 (distance)
+3) North Lauderdale 6 (distance)
+0637: Bowie
+1) Washington 24 (distance)
+2) Annapolis 24 (distance)
+3) Alexandria 32 (distance)
+0638: Berwyn
+1) Cicero 3 (distance)
+2) Oak Park 3 (distance)
+3) Chicago 13 (distance)
+0639: Midwest City
+1) Oklahoma City 11 (distance)
+2) Moore 14 (distance)
+3) Edmond 23 (distance)
+0640: Fountain Valley
+1) Westminster 5 (distance)
+2) Huntington Beach 6 (distance)
+3) Garden Grove 7 (distance)
+0641: Buckeye
+1) Avondale 22 (distance)
+2) Goodyear 22 (distance)
+3) Surprise 35 (distance)
+0642: Dearborn Heights
+1) Livonia 7 (distance)
+2) Dearborn 8 (distance)
+3) Westland 10 (distance)
+0643: Woodland
+1) Davis 15 (distance)
+2) West Sacramento 23 (distance)
+3) Sacramento 26 (distance)
+0644: Noblesville
+1) Fishers 9 (distance)
+2) Carmel 11 (distance)
+3) Lawrence 23 (distance)
+0645: Valdosta
+1) Tallahassee 105 (distance)
+2) Albany 117 (distance)
+3) Gainesville 160 (distance)
+0646: Diamond Bar
+1) Pomona 6 (distance)
+2) Chino Hills 8 (distance)
+3) Covina 10 (distance)
+0647: Manhattan
+1) Topeka 77 (distance)
+2) Salina 97 (distance)
+3) Lawrence 117 (distance)
+0648: Santee
+1) El Cajon 4 (distance)
+2) La Mesa 9 (distance)
+3) Poway 14 (distance)
+0649: Taunton
+1) Attleboro 16 (distance)
+2) Brockton 21 (distance)
+3) Fall River 22 (distance)
+0650: Sanford
+1) Deltona 10 (distance)
+2) Altamonte Springs 18 (distance)
+3) Apopka 28 (distance)
+0651: Kettering
+1) Dayton 7 (distance)
+2) Beavercreek 9 (distance)
+3) Huber Heights 17 (distance)
+0652: New Brunswick
+1) Sayreville 8 (distance)
+2) Perth Amboy 15 (distance)
+3) Plainfield 16 (distance)
+0653: Decatur
+1) Madison 23 (distance)
+2) Huntsville 38 (distance)
+3) Florence 66 (distance)
+0654: Chicopee
+1) Springfield 5 (distance)
+2) Holyoke 6 (distance)
+3) Westfield 11 (distance)
+0655: Anderson
+1) Muncie 26 (distance)
+2) Noblesville 28 (distance)
+3) Fishers 32 (distance)
+0656: Margate
+1) Coconut Creek 2 (distance)
+2) North Lauderdale 3 (distance)
+3) Tamarac 5 (distance)
+0657: Weymouth Town
+1) Quincy 6 (distance)
+2) Brockton 16 (distance)
+3) Boston 18 (distance)
+0658: Hempstead
+1) Freeport 6 (distance)
+2) Valley Stream 8 (distance)
+3) New Rochelle 26 (distance)
+0659: Corvallis
+1) Albany 14 (distance)
+2) Salem 45 (distance)
+3) Keizer 50 (distance)
+0660: Eastvale
+1) Corona 8 (distance)
+2) Jurupa Valley 10 (distance)
+3) Chino 11 (distance)
+0661: Porterville
+1) Tulare 33 (distance)
+2) Visalia 38 (distance)
+3) Delano 38 (distance)
+0662: West Haven
+1) New Haven 4 (distance)
+2) Milford 10 (distance)
+3) Shelton 13 (distance)
+0663: Brentwood
+1) Oakley 7 (distance)
+2) Antioch 12 (distance)
+3) Pittsburg 19 (distance)
+0664: Paramount
+1) Lakewood 4 (distance)
+2) Bellflower 4 (distance)
+3) Compton 5 (distance)
+0665: Grand Forks
+1) Fargo 117 (distance)
+2) Moorhead 118 (distance)
+3) Bismarck 308 (distance)
+0666: Georgetown
+1) Round Rock 13 (distance)
+2) Cedar Park 19 (distance)
+3) Pflugerville 22 (distance)
+0667: St. Peters
+1) O'Fallon 6 (distance)
+2) St. Charles 11 (distance)
+3) Chesterfield 14 (distance)
+0668: Shoreline
+1) Edmonds 6 (distance)
+2) Kirkland 12 (distance)
+3) Seattle 16 (distance)
+0669: Mount Prospect
+1) Arlington Heights 4 (distance)
+2) Des Plaines 5 (distance)
+3) Wheeling 8 (distance)
+0670: Hanford
+1) Tulare 29 (distance)
+2) Visalia 31 (distance)
+3) Fresno 47 (distance)
+0671: Normal
+1) Bloomington 3 (distance)
+2) Peoria 54 (distance)
+3) Decatur 74 (distance)
+0672: Rosemead
+1) San Gabriel 3 (distance)
+2) El Monte 4 (distance)
+3) Alhambra 5 (distance)
+0673: Lehi
+1) Draper 14 (distance)
+2) Orem 16 (distance)
+3) Riverton 16 (distance)
+0674: Pocatello
+1) Idaho Falls 76 (distance)
+2) Logan 135 (distance)
+3) Twin Falls 168 (distance)
+0675: Highland
+1) San Bernardino 7 (distance)
+2) Redlands 8 (distance)
+3) Colton 11 (distance)
+0676: Novato
+1) Petaluma 15 (distance)
+2) San Rafael 15 (distance)
+3) Vallejo 27 (distance)
+0677: Port Arthur
+1) Beaumont 28 (distance)
+2) Lake Charles 79 (distance)
+3) Baytown 101 (distance)
+0678: Carson City
+1) Reno 40 (distance)
+2) Sparks 41 (distance)
+3) Folsom 133 (distance)
+0679: San Marcos
+1) New Braunfels 26 (distance)
+2) Austin 46 (distance)
+3) Pflugerville 69 (distance)
+0680: Hendersonville
+1) Nashville-Davidson 21 (distance)
+2) Brentwood 33 (distance)
+3) Smyrna 36 (distance)
+0681: Elyria
+1) Lorain 11 (distance)
+2) Strongsville 23 (distance)
+3) Lakewood 28 (distance)
+0682: Revere
+1) Chelsea 2 (distance)
+2) Everett 3 (distance)
+3) Malden 4 (distance)
+0683: Pflugerville
+1) Round Rock 9 (distance)
+2) Cedar Park 20 (distance)
+3) Austin 22 (distance)
+0684: Greenwood
+1) Indianapolis 17 (distance)
+2) Lawrence 25 (distance)
+3) Fishers 38 (distance)
+0685: Bellevue
+1) Omaha 12 (distance)
+2) Council Bluffs 12 (distance)
+3) Lincoln 74 (distance)
+0686: Wheaton
+1) Carol Stream 5 (distance)
+2) Lombard 8 (distance)
+3) Downers Grove 10 (distance)
+0687: Smyrna
+1) Marietta 8 (distance)
+2) Sandy Springs 14 (distance)
+3) Brookhaven 16 (distance)
+0688: Sarasota
+1) Bradenton 18 (distance)
+2) North Port 43 (distance)
+3) St. Petersburg 49 (distance)
+0689: Blue Springs
+1) Independence 14 (distance)
+2) Lee's Summit 14 (distance)
+3) Kansas City 27 (distance)
+0690: Colton
+1) San Bernardino 4 (distance)
+2) Rialto 6 (distance)
+3) Fontana 11 (distance)
+0691: Euless
+1) Bedford 5 (distance)
+2) Hurst 8 (distance)
+3) Grapevine 10 (distance)
+0692: Castle Rock
+1) Parker 18 (distance)
+2) Centennial 23 (distance)
+3) Littleton 30 (distance)
+0693: Cathedral City
+1) Palm Springs 9 (distance)
+2) Palm Desert 10 (distance)
+3) La Quinta 19 (distance)
+0694: Kingsport
+1) Johnson City 32 (distance)
+2) Asheville 106 (distance)
+3) Knoxville 138 (distance)
+0695: Lake Havasu City
+1) Bullhead City 74 (distance)
+2) Prescott 169 (distance)
+3) Henderson 183 (distance)
+0696: Pensacola
+1) Mobile 84 (distance)
+2) Panama City 152 (distance)
+3) Biloxi 160 (distance)
+0697: Hoboken
+1) New York 4 (distance)
+2) Jersey City 4 (distance)
+3) West New York 5 (distance)
+0698: Yucaipa
+1) Redlands 13 (distance)
+2) Beaumont 13 (distance)
+3) Highland 18 (distance)
+0699: Watsonville
+1) Gilroy 19 (distance)
+2) Santa Cruz 25 (distance)
+3) Morgan Hill 26 (distance)
+0700: Richland
+1) Kennewick 14 (distance)
+2) Pasco 15 (distance)
+3) Yakima 99 (distance)
+0701: Delano
+1) Porterville 38 (distance)
+2) Bakersfield 48 (distance)
+3) Tulare 49 (distance)
+0702: Hoffman Estates
+1) Schaumburg 4 (distance)
+2) Streamwood 6 (distance)
+3) Hanover Park 7 (distance)
+0703: Florissant
+1) St. Charles 15 (distance)
+2) St. Louis 20 (distance)
+3) St. Peters 26 (distance)
+0704: Placentia
+1) Fullerton 4 (distance)
+2) Anaheim 5 (distance)
+3) Yorba Linda 5 (distance)
+0705: West New York
+1) Hoboken 5 (distance)
+2) New York 8 (distance)
+3) Jersey City 8 (distance)
+0706: Dublin
+1) Pleasanton 6 (distance)
+2) San Ramon 9 (distance)
+3) Hayward 13 (distance)
+0707: Oak Park
+1) Berwyn 3 (distance)
+2) Cicero 5 (distance)
+3) Chicago 12 (distance)
+0708: Peabody
+1) Salem 2 (distance)
+2) Beverly 5 (distance)
+3) Lynn 7 (distance)
+0709: Perth Amboy
+1) Sayreville 9 (distance)
+2) Linden 12 (distance)
+3) New Brunswick 15 (distance)
+0710: Battle Creek
+1) Kalamazoo 33 (distance)
+2) Portage 35 (distance)
+3) Lansing 68 (distance)
+0711: Bradenton
+1) Sarasota 18 (distance)
+2) St. Petersburg 31 (distance)
+3) Pinellas Park 40 (distance)
+0712: Gilroy
+1) Morgan Hill 15 (distance)
+2) Watsonville 19 (distance)
+3) Salinas 37 (distance)
+0713: Milford
+1) Shelton 9 (distance)
+2) West Haven 10 (distance)
+3) Bridgeport 12 (distance)
+0714: Albany
+1) Corvallis 14 (distance)
+2) Salem 34 (distance)
+3) Keizer 39 (distance)
+0715: Ankeny
+1) Des Moines 14 (distance)
+2) Urbandale 14 (distance)
+3) West Des Moines 19 (distance)
+0716: La Crosse
+1) Rochester 102 (distance)
+2) Eau Claire 114 (distance)
+3) Dubuque 151 (distance)
+0717: Burlington
+1) Greensboro 31 (distance)
+2) Chapel Hill 39 (distance)
+3) Durham 49 (distance)
+0718: DeSoto
+1) Duncanville 8 (distance)
+2) Cedar Hill 9 (distance)
+3) Lancaster 9 (distance)
+0719: Harrisonburg
+1) Charlottesville 57 (distance)
+2) Lynchburg 117 (distance)
+3) Manassas 125 (distance)
+0720: Minnetonka
+1) Eden Prairie 7 (distance)
+2) St. Louis Park 8 (distance)
+3) Plymouth 9 (distance)
+0721: Elkhart
+1) Mishawaka 15 (distance)
+2) South Bend 22 (distance)
+3) Portage 66 (distance)
+0722: Lakewood
+1) Cleveland 8 (distance)
+2) Parma 10 (distance)
+3) Strongsville 18 (distance)
+0723: Glendora
+1) Azusa 3 (distance)
+2) Covina 5 (distance)
+3) West Covina 10 (distance)
+0724: Southaven
+1) Memphis 18 (distance)
+2) Germantown 21 (distance)
+3) Bartlett 27 (distance)
+0725: Charleston
+1) Huntington 71 (distance)
+2) Blacksburg 164 (distance)
+3) Lancaster 173 (distance)
+0726: Joplin
+1) Bentonville 83 (distance)
+2) Rogers 90 (distance)
+3) Springdale 105 (distance)
+0727: Enid
+1) Stillwater 79 (distance)
+2) Edmond 90 (distance)
+3) Oklahoma City 108 (distance)
+0728: Palm Beach Gardens
+1) Jupiter 13 (distance)
+2) West Palm Beach 14 (distance)
+3) Greenacres 21 (distance)
+0729: Brookhaven
+1) Sandy Springs 8 (distance)
+2) Dunwoody 9 (distance)
+3) Atlanta 13 (distance)
+0730: Plainfield
+1) Linden 13 (distance)
+2) Union City 14 (distance)
+3) Elizabeth 16 (distance)
+0731: Grand Island
+1) Lincoln 139 (distance)
+2) Omaha 199 (distance)
+3) Bellevue 205 (distance)
+0732: Palm Desert
+1) La Quinta 8 (distance)
+2) Cathedral City 10 (distance)
+3) Indio 14 (distance)
+0733: Huntersville
+1) Charlotte 20 (distance)
+2) Kannapolis 21 (distance)
+3) Concord 23 (distance)
+0734: Tigard
+1) Beaverton 6 (distance)
+2) Lake Oswego 7 (distance)
+3) Portland 12 (distance)
+0735: Lenexa
+1) Overland Park 6 (distance)
+2) Shawnee 7 (distance)
+3) Olathe 10 (distance)
+0736: Saginaw
+1) Midland 32 (distance)
+2) Flint 50 (distance)
+3) East Lansing 87 (distance)
+0737: Kentwood
+1) Wyoming 6 (distance)
+2) Grand Rapids 10 (distance)
+3) Muskegon 63 (distance)
+0738: Doral
+1) Hialeah 8 (distance)
+2) Coral Gables 13 (distance)
+3) Miami 17 (distance)
+0739: Apple Valley
+1) Burnsville 6 (distance)
+2) Eagan 8 (distance)
+3) Lakeville 9 (distance)
+0740: Grapevine
+1) Coppell 6 (distance)
+2) Flower Mound 9 (distance)
+3) Euless 10 (distance)
+0741: Aliso Viejo
+1) Laguna Niguel 5 (distance)
+2) Mission Viejo 6 (distance)
+3) Lake Forest 9 (distance)
+0742: Sammamish
+1) Redmond 9 (distance)
+2) Bellevue 12 (distance)
+3) Kirkland 14 (distance)
+0743: Casa Grande
+1) Maricopa 33 (distance)
+2) Chandler 48 (distance)
+3) Gilbert 52 (distance)
+0744: Pinellas Park
+1) St. Petersburg 9 (distance)
+2) Largo 11 (distance)
+3) Clearwater 16 (distance)
+0745: Troy
+1) Albany 9 (distance)
+2) Schenectady 22 (distance)
+3) Pittsfield 47 (distance)
+0746: West Sacramento
+1) Sacramento 3 (distance)
+2) Davis 18 (distance)
+3) Rancho Cordova 19 (distance)
+0747: Burien
+1) Renton 9 (distance)
+2) Kent 13 (distance)
+3) Seattle 15 (distance)
+0748: Commerce City
+1) Thornton 7 (distance)
+2) Denver 9 (distance)
+3) Westminster 9 (distance)
+0749: Monroe
+1) Alexandria 136 (distance)
+2) Bossier City 151 (distance)
+3) Shreveport 152 (distance)
+0750: Cerritos
+1) Norwalk 5 (distance)
+2) Bellflower 5 (distance)
+3) Cypress 5 (distance)
+0751: Downers Grove
+1) Lombard 7 (distance)
+2) Wheaton 10 (distance)
+3) Elmhurst 11 (distance)
+0752: Coral Gables
+1) Miami 8 (distance)
+2) Doral 13 (distance)
+3) Hialeah 15 (distance)
+0753: Wilson
+1) Rocky Mount 26 (distance)
+2) Greenville 51 (distance)
+3) Raleigh 65 (distance)
+0754: Niagara Falls
+1) Buffalo 26 (distance)
+2) Rochester 116 (distance)
+3) Erie 137 (distance)
+0755: Poway
+1) Santee 14 (distance)
+2) Escondido 18 (distance)
+3) El Cajon 19 (distance)
+0756: Edina
+1) Bloomington 6 (distance)
+2) St. Louis Park 7 (distance)
+3) Minnetonka 9 (distance)
+0757: Cuyahoga Falls
+1) Akron 6 (distance)
+2) Strongsville 35 (distance)
+3) Parma 36 (distance)
+0758: Rancho Santa Margarita
+1) Mission Viejo 7 (distance)
+2) Lake Forest 8 (distance)
+3) Aliso Viejo 13 (distance)
+0759: Harrisburg
+1) York 37 (distance)
+2) Lancaster 55 (distance)
+3) Reading 81 (distance)
+0760: Huntington
+1) Charleston 71 (distance)
+2) Lancaster 144 (distance)
+3) Grove City 171 (distance)
+0761: La Mirada
+1) Buena Park 5 (distance)
+2) Norwalk 6 (distance)
+3) La Habra 6 (distance)
+0762: Cypress
+1) Stanton 4 (distance)
+2) Cerritos 5 (distance)
+3) Buena Park 6 (distance)
+0763: Caldwell
+1) Nampa 16 (distance)
+2) Meridian 24 (distance)
+3) Boise City 38 (distance)
+0764: Logan
+1) Ogden 58 (distance)
+2) Roy 65 (distance)
+3) Layton 76 (distance)
+0765: Galveston
+1) Texas City 13 (distance)
+2) League City 36 (distance)
+3) Friendswood 46 (distance)
+0766: Sheboygan
+1) Fond du Lac 58 (distance)
+2) Oshkosh 73 (distance)
+3) Appleton 79 (distance)
+0767: Middletown
+1) Hamilton 19 (distance)
+2) Fairfield 23 (distance)
+3) Kettering 27 (distance)
+0768: Murray
+1) Taylorsville 4 (distance)
+2) West Jordan 7 (distance)
+3) West Valley City 9 (distance)
+0769: Roswell
+1) Clovis 165 (distance)
+2) Las Cruces 240 (distance)
+3) Lubbock 248 (distance)
+0770: Parker
+1) Centennial 12 (distance)
+2) Castle Rock 18 (distance)
+3) Aurora 24 (distance)
+0771: Bedford
+1) Hurst 3 (distance)
+2) Euless 5 (distance)
+3) North Richland Hills 8 (distance)
+0772: East Lansing
+1) Lansing 5 (distance)
+2) Flint 71 (distance)
+3) Battle Creek 73 (distance)
+0773: Methuen
+1) Lawrence 3 (distance)
+2) Haverhill 10 (distance)
+3) Lowell 14 (distance)
+0774: Covina
+1) West Covina 5 (distance)
+2) Glendora 5 (distance)
+3) Azusa 5 (distance)
+0775: Alexandria
+1) Lafayette 127 (distance)
+2) Monroe 136 (distance)
+3) Lake Charles 141 (distance)
+0776: Olympia
+1) Lacey 5 (distance)
+2) Lakewood 32 (distance)
+3) Tacoma 41 (distance)
+0777: Euclid
+1) Cleveland Heights 8 (distance)
+2) Cleveland 17 (distance)
+3) Mentor 17 (distance)
+0778: Mishawaka
+1) South Bend 7 (distance)
+2) Elkhart 15 (distance)
+3) Portage 76 (distance)
+0779: Salina
+1) Hutchinson 90 (distance)
+2) Manhattan 97 (distance)
+3) Wichita 130 (distance)
+0780: Azusa
+1) Glendora 3 (distance)
+2) Covina 5 (distance)
+3) West Covina 7 (distance)
+0781: Newark
+1) Lancaster 41 (distance)
+2) Westerville 45 (distance)
+3) Columbus 52 (distance)
+0782: Chesterfield
+1) St. Peters 14 (distance)
+2) St. Charles 15 (distance)
+3) O'Fallon 19 (distance)
+0783: Leesburg
+1) Gaithersburg 31 (distance)
+2) Frederick 35 (distance)
+3) Rockville 35 (distance)
+0784: Dunwoody
+1) Sandy Springs 3 (distance)
+2) Roswell 8 (distance)
+3) Brookhaven 9 (distance)
+0785: Hattiesburg
+1) Gulfport 108 (distance)
+2) Biloxi 110 (distance)
+3) Meridian 127 (distance)
+0786: Roseville
+1) St. Clair Shores 3 (distance)
+2) Warren 6 (distance)
+3) Sterling Heights 11 (distance)
+0787: Bonita Springs
+1) Cape Coral 30 (distance)
+2) Fort Myers 34 (distance)
+3) North Port 90 (distance)
+0788: Portage
+1) Kalamazoo 10 (distance)
+2) Battle Creek 35 (distance)
+3) Elkhart 66 (distance)
+0789: St. Louis Park
+1) Edina 7 (distance)
+2) Minneapolis 8 (distance)
+3) Plymouth 8 (distance)
+0790: Collierville
+1) Germantown 14 (distance)
+2) Bartlett 26 (distance)
+3) Southaven 32 (distance)
+0791: Middletown
+1) Meriden 13 (distance)
+2) New Britain 15 (distance)
+3) Hartford 22 (distance)
+0792: Stillwater
+1) Edmond 63 (distance)
+2) Enid 79 (distance)
+3) Midwest City 80 (distance)
+0793: East Providence
+1) Providence 3 (distance)
+2) Cranston 6 (distance)
+3) Pawtucket 7 (distance)
+0794: Lawrence
+1) Indianapolis 13 (distance)
+2) Fishers 13 (distance)
+3) Carmel 17 (distance)
+0795: Wauwatosa
+1) West Allis 3 (distance)
+2) Milwaukee 8 (distance)
+3) Brookfield 8 (distance)
+0796: Mentor
+1) Euclid 17 (distance)
+2) Cleveland Heights 24 (distance)
+3) Cleveland 34 (distance)
+0797: Ceres
+1) Modesto 6 (distance)
+2) Turlock 14 (distance)
+3) Manteca 31 (distance)
+0798: Cedar Hill
+1) Duncanville 8 (distance)
+2) DeSoto 9 (distance)
+3) Grand Prairie 17 (distance)
+0799: Mansfield
+1) Elyria 75 (distance)
+2) Newark 78 (distance)
+3) Westerville 78 (distance)
+0800: Binghamton
+1) Scranton 79 (distance)
+2) Wilkes-Barre 94 (distance)
+3) Syracuse 107 (distance)
+0801: Coeur d'Alene
+1) Spokane Valley 34 (distance)
+2) Spokane 48 (distance)
+3) Missoula 228 (distance)
+0802: San Luis Obispo
+1) Santa Maria 41 (distance)
+2) Lompoc 73 (distance)
+3) Santa Barbara 129 (distance)
+0803: Minot
+1) Bismarck 162 (distance)
+2) Grand Forks 318 (distance)
+3) Fargo 369 (distance)
+0804: Palm Springs
+1) Cathedral City 9 (distance)
+2) Palm Desert 19 (distance)
+3) La Quinta 28 (distance)
+0805: Pine Bluff
+1) Little Rock 63 (distance)
+2) North Little Rock 64 (distance)
+3) Conway 103 (distance)
+0806: Texas City
+1) Galveston 13 (distance)
+2) League City 23 (distance)
+3) Friendswood 33 (distance)
+0807: Summerville
+1) Goose Creek 13 (distance)
+2) North Charleston 26 (distance)
+3) Charleston 35 (distance)
+0808: Twin Falls
+1) Pocatello 168 (distance)
+2) Boise City 184 (distance)
+3) Meridian 195 (distance)
+0809: Jeffersonville
+1) Louisville/Jefferson County 3 (distance)
+2) Columbus 103 (distance)
+3) Lexington-Fayette 111 (distance)
+0810: San Jacinto
+1) Hemet 4 (distance)
+2) Beaumont 16 (distance)
+3) Menifee 23 (distance)
+0811: Madison
+1) Huntsville 15 (distance)
+2) Decatur 23 (distance)
+3) Florence 85 (distance)
+0812: Altoona
+1) State College 54 (distance)
+2) Hagerstown 113 (distance)
+3) Harrisburg 130 (distance)
+0813: Columbus
+1) Greenwood 48 (distance)
+2) Bloomington 52 (distance)
+3) Indianapolis 66 (distance)
+0814: Beavercreek
+1) Kettering 9 (distance)
+2) Dayton 12 (distance)
+3) Huber Heights 15 (distance)
+0815: Apopka
+1) Ocoee 13 (distance)
+2) Winter Garden 15 (distance)
+3) Altamonte Springs 16 (distance)
+0816: Elmhurst
+1) Lombard 5 (distance)
+2) Addison 5 (distance)
+3) Downers Grove 11 (distance)
+0817: Maricopa
+1) Chandler 33 (distance)
+2) Casa Grande 33 (distance)
+3) Gilbert 40 (distance)
+0818: Farmington
+1) Rio Rancho 217 (distance)
+2) Albuquerque 233 (distance)
+3) Santa Fe 235 (distance)
+0819: Glenview
+1) Skokie 5 (distance)
+2) Park Ridge 7 (distance)
+3) Evanston 8 (distance)
+0820: Cleveland Heights
+1) Euclid 8 (distance)
+2) Cleveland 11 (distance)
+3) Parma 18 (distance)
+0821: Draper
+1) Sandy 4 (distance)
+2) South Jordan 6 (distance)
+3) Riverton 6 (distance)
+0822: Lincoln
+1) Rocklin 12 (distance)
+2) Roseville 15 (distance)
+3) Citrus Heights 20 (distance)
+0823: Sierra Vista
+1) Tucson 97 (distance)
+2) Oro Valley 114 (distance)
+3) Marana 133 (distance)
+0824: Lacey
+1) Olympia 5 (distance)
+2) Lakewood 27 (distance)
+3) Tacoma 37 (distance)
+0825: Biloxi
+1) Gulfport 20 (distance)
+2) Mobile 87 (distance)
+3) Hattiesburg 110 (distance)
+0826: Strongsville
+1) Parma 13 (distance)
+2) Lakewood 18 (distance)
+3) Cleveland 23 (distance)
+0827: Barnstable Town
+1) New Bedford 53 (distance)
+2) Taunton 69 (distance)
+3) Fall River 70 (distance)
+0828: Wylie
+1) Rockwall 11 (distance)
+2) Rowlett 12 (distance)
+3) Plano 14 (distance)
+0829: Sayreville
+1) New Brunswick 8 (distance)
+2) Perth Amboy 9 (distance)
+3) Plainfield 19 (distance)
+0830: Kannapolis
+1) Concord 9 (distance)
+2) Huntersville 21 (distance)
+3) Charlotte 35 (distance)
+0831: Charlottesville
+1) Harrisonburg 57 (distance)
+2) Lynchburg 90 (distance)
+3) Richmond 106 (distance)
+0832: Littleton
+1) Lakewood 11 (distance)
+2) Centennial 12 (distance)
+3) Denver 14 (distance)
+0833: Titusville
+1) Sanford 49 (distance)
+2) Deltona 54 (distance)
+3) Altamonte Springs 54 (distance)
+0834: Hackensack
+1) Passaic 7 (distance)
+2) Clifton 10 (distance)
+3) Paterson 11 (distance)
+0835: Newark
+1) Fremont 5 (distance)
+2) Union City 7 (distance)
+3) Palo Alto 13 (distance)
+0836: Pittsfield
+1) Albany 47 (distance)
+2) Troy 47 (distance)
+3) Westfield 54 (distance)
+0837: York
+1) Lancaster 36 (distance)
+2) Harrisburg 37 (distance)
+3) Baltimore 75 (distance)
+0838: Lombard
+1) Elmhurst 5 (distance)
+2) Addison 5 (distance)
+3) Downers Grove 7 (distance)
+0839: Attleboro
+1) Pawtucket 10 (distance)
+2) Taunton 16 (distance)
+3) East Providence 16 (distance)
+0840: DeKalb
+1) Aurora 40 (distance)
+2) Elgin 40 (distance)
+3) Carpentersville 45 (distance)
+0841: Blacksburg
+1) Roanoke 42 (distance)
+2) Lynchburg 114 (distance)
+3) Danville 115 (distance)
+0842: Dublin
+1) Westerville 16 (distance)
+2) Columbus 18 (distance)
+3) Grove City 24 (distance)
+0843: Haltom City
+1) North Richland Hills 5 (distance)
+2) Fort Worth 7 (distance)
+3) Hurst 9 (distance)
+0844: Lompoc
+1) Santa Maria 34 (distance)
+2) Santa Barbara 73 (distance)
+3) San Luis Obispo 73 (distance)
+0845: El Centro
+1) Calexico 13 (distance)
+2) Yuma 88 (distance)
+3) Coachella 113 (distance)
+0846: Danville
+1) San Ramon 5 (distance)
+2) Walnut Creek 11 (distance)
+3) Dublin 14 (distance)
+0847: Jefferson City
+1) Columbia 43 (distance)
+2) O'Fallon 130 (distance)
+3) St. Peters 136 (distance)
+0848: Cutler Bay
+1) Coral Gables 17 (distance)
+2) Homestead 18 (distance)
+3) Miami 25 (distance)
+0849: Oakland Park
+1) Fort Lauderdale 5 (distance)
+2) Pompano Beach 7 (distance)
+3) Lauderhill 8 (distance)
+0850: North Miami Beach
+1) Aventura 3 (distance)
+2) North Miami 5 (distance)
+3) Hallandale Beach 5 (distance)
+0851: Freeport
+1) Hempstead 6 (distance)
+2) Valley Stream 10 (distance)
+3) New Rochelle 32 (distance)
+0852: Moline
+1) Davenport 5 (distance)
+2) Rock Island 5 (distance)
+3) Iowa City 86 (distance)
+0853: Coachella
+1) Indio 5 (distance)
+2) La Quinta 12 (distance)
+3) Palm Desert 19 (distance)
+0854: Fort Pierce
+1) Port St. Lucie 19 (distance)
+2) Jupiter 61 (distance)
+3) Palm Bay 70 (distance)
+0855: Smyrna
+1) Murfreesboro 19 (distance)
+2) Brentwood 24 (distance)
+3) Nashville-Davidson 30 (distance)
+0856: Bountiful
+1) Salt Lake City 14 (distance)
+2) Layton 20 (distance)
+3) West Valley City 24 (distance)
+0857: Fond du Lac
+1) Oshkosh 29 (distance)
+2) Appleton 54 (distance)
+3) Sheboygan 58 (distance)
+0858: Everett
+1) Malden 2 (distance)
+2) Chelsea 2 (distance)
+3) Revere 3 (distance)
+0859: Danville
+1) Burlington 54 (distance)
+2) Greensboro 67 (distance)
+3) Durham 79 (distance)
+0860: Keller
+1) North Richland Hills 11 (distance)
+2) Bedford 12 (distance)
+3) Hurst 13 (distance)
+0861: Belleville
+1) St. Louis 22 (distance)
+2) Florissant 41 (distance)
+3) St. Charles 53 (distance)
+0862: Bell Gardens
+1) Downey 3 (distance)
+2) South Gate 5 (distance)
+3) Pico Rivera 5 (distance)
+0863: Cleveland
+1) Chattanooga 41 (distance)
+2) Knoxville 124 (distance)
+3) Alpharetta 131 (distance)
+0864: North Lauderdale
+1) Tamarac 2 (distance)
+2) Margate 3 (distance)
+3) Sunrise 6 (distance)
+0865: Fairfield
+1) Hamilton 6 (distance)
+2) Middletown 23 (distance)
+3) Cincinnati 27 (distance)
+0866: Salem
+1) Peabody 2 (distance)
+2) Beverly 4 (distance)
+3) Lynn 7 (distance)
+0867: Rancho Palos Verdes
+1) Torrance 11 (distance)
+2) Redondo Beach 11 (distance)
+3) Carson 13 (distance)
+0868: San Bruno
+1) South San Francisco 2 (distance)
+2) Pacifica 6 (distance)
+3) Daly City 8 (distance)
+0869: Concord
+1) Manchester 24 (distance)
+2) Nashua 49 (distance)
+3) Haverhill 60 (distance)
+0870: Burlington
+1) Schenectady 193 (distance)
+2) Concord 194 (distance)
+3) Troy 198 (distance)
+0871: Apex
+1) Cary 9 (distance)
+2) Raleigh 19 (distance)
+3) Chapel Hill 27 (distance)
+0872: Midland
+1) Saginaw 32 (distance)
+2) Flint 80 (distance)
+3) East Lansing 99 (distance)
+0873: Altamonte Springs
+1) Orlando 13 (distance)
+2) Apopka 16 (distance)
+3) Sanford 18 (distance)
+0874: Hutchinson
+1) Wichita 66 (distance)
+2) Salina 90 (distance)
+3) Manhattan 171 (distance)
+0875: Buffalo Grove
+1) Wheeling 4 (distance)
+2) Arlington Heights 8 (distance)
+3) Palatine 8 (distance)
+0876: Urbandale
+1) West Des Moines 5 (distance)
+2) Des Moines 9 (distance)
+3) Ankeny 14 (distance)
+0877: State College
+1) Altoona 54 (distance)
+2) Harrisburg 100 (distance)
+3) Hagerstown 128 (distance)
+0878: Urbana
+1) Champaign 3 (distance)
+2) Decatur 70 (distance)
+3) Bloomington 78 (distance)
+0879: Plainfield
+1) Romeoville 10 (distance)
+2) Naperville 14 (distance)
+3) Bolingbrook 14 (distance)
+0880: Manassas
+1) Alexandria 37 (distance)
+2) Washington 41 (distance)
+3) Leesburg 41 (distance)
+0881: Bartlett
+1) Streamwood 3 (distance)
+2) Hanover Park 3 (distance)
+3) Elgin 9 (distance)
+0882: Kearny
+1) Newark 4 (distance)
+2) East Orange 5 (distance)
+3) Jersey City 7 (distance)
+0883: Oro Valley
+1) Tucson 19 (distance)
+2) Marana 24 (distance)
+3) Casa Grande 91 (distance)
+0884: Findlay
+1) Lima 50 (distance)
+2) Toledo 69 (distance)
+3) Mansfield 100 (distance)
+0885: Rohnert Park
+1) Santa Rosa 11 (distance)
+2) Petaluma 13 (distance)
+3) Novato 28 (distance)
+0886: Westfield
+1) Chicopee 11 (distance)
+2) Springfield 13 (distance)
+3) Holyoke 14 (distance)
+0887: Linden
+1) Elizabeth 5 (distance)
+2) Union City 8 (distance)
+3) Bayonne 12 (distance)
+0888: Sumter
+1) Florence 61 (distance)
+2) Columbia 64 (distance)
+3) Summerville 101 (distance)
+0889: Wilkes-Barre
+1) Scranton 25 (distance)
+2) Allentown 78 (distance)
+3) Bethlehem 81 (distance)
+0890: Woonsocket
+1) Pawtucket 17 (distance)
+2) Attleboro 20 (distance)
+3) Providence 21 (distance)
+0891: Leominster
+1) Fitchburg 7 (distance)
+2) Marlborough 26 (distance)
+3) Worcester 29 (distance)
+0892: Shelton
+1) Milford 9 (distance)
+2) New Haven 13 (distance)
+3) West Haven 13 (distance)
+0893: Brea
+1) La Habra 4 (distance)
+2) Fullerton 5 (distance)
+3) Placentia 5 (distance)
+0894: Covington
+1) Cincinnati 2 (distance)
+2) Fairfield 29 (distance)
+3) Hamilton 35 (distance)
+0895: Rockwall
+1) Rowlett 10 (distance)
+2) Wylie 11 (distance)
+3) Garland 16 (distance)
+0896: Meridian
+1) Hattiesburg 127 (distance)
+2) Jackson 139 (distance)
+3) Tuscaloosa 141 (distance)
+0897: Riverton
+1) South Jordan 4 (distance)
+2) Draper 6 (distance)
+3) West Jordan 9 (distance)
+0898: St. Cloud
+1) Kissimmee 13 (distance)
+2) Orlando 33 (distance)
+3) Ocoee 43 (distance)
+0899: Quincy
+1) Columbia 135 (distance)
+2) O'Fallon 139 (distance)
+3) St. Peters 144 (distance)
+0900: Morgan Hill
+1) Gilroy 15 (distance)
+2) Watsonville 26 (distance)
+3) San Jose 30 (distance)
+0901: Warren
+1) Youngstown 20 (distance)
+2) Cuyahoga Falls 56 (distance)
+3) Akron 61 (distance)
+0902: Edmonds
+1) Shoreline 6 (distance)
+2) Kirkland 19 (distance)
+3) Seattle 22 (distance)
+0903: Burleson
+1) Mansfield 16 (distance)
+2) Fort Worth 23 (distance)
+3) Arlington 29 (distance)
+0904: Beverly
+1) Salem 4 (distance)
+2) Peabody 5 (distance)
+3) Lynn 11 (distance)
+0905: Mankato
+1) Shakopee 79 (distance)
+2) Lakeville 80 (distance)
+3) Eden Prairie 87 (distance)
+0906: Hagerstown
+1) Frederick 36 (distance)
+2) Leesburg 60 (distance)
+3) Gaithersburg 71 (distance)
+0907: Prescott
+1) Prescott Valley 16 (distance)
+2) Surprise 101 (distance)
+3) Flagstaff 104 (distance)
+0908: Campbell
+1) San Jose 7 (distance)
+2) Santa Clara 7 (distance)
+3) Cupertino 8 (distance)
+0909: Cedar Falls
+1) Waterloo 9 (distance)
+2) Cedar Rapids 89 (distance)
+3) Ames 111 (distance)
+0910: Beaumont
+1) Yucaipa 13 (distance)
+2) San Jacinto 16 (distance)
+3) Hemet 20 (distance)
+0911: La Puente
+1) West Covina 5 (distance)
+2) Baldwin Park 7 (distance)
+3) El Monte 8 (distance)
+0912: Crystal Lake
+1) Carpentersville 14 (distance)
+2) Elgin 23 (distance)
+3) Hoffman Estates 25 (distance)
+0913: Fitchburg
+1) Leominster 7 (distance)
+2) Marlborough 33 (distance)
+3) Nashua 34 (distance)
+0914: Carol Stream
+1) Wheaton 5 (distance)
+2) Hanover Park 9 (distance)
+3) Bartlett 10 (distance)
+0915: Hickory
+1) Gastonia 54 (distance)
+2) Huntersville 57 (distance)
+3) Kannapolis 70 (distance)
+0916: Streamwood
+1) Bartlett 3 (distance)
+2) Hanover Park 4 (distance)
+3) Hoffman Estates 6 (distance)
+0917: Norwich
+1) Middletown 48 (distance)
+2) Hartford 57 (distance)
+3) Warwick 58 (distance)
+0918: Coppell
+1) Grapevine 6 (distance)
+2) Lewisville 10 (distance)
+3) Flower Mound 10 (distance)
+0919: San Gabriel
+1) Alhambra 1 (distance)
+2) Rosemead 3 (distance)
+3) Monterey Park 4 (distance)
+0920: Holyoke
+1) Chicopee 6 (distance)
+2) Springfield 11 (distance)
+3) Westfield 14 (distance)
+0921: Bentonville
+1) Rogers 9 (distance)
+2) Springdale 21 (distance)
+3) Fayetteville 34 (distance)
+0922: Florence
+1) Decatur 66 (distance)
+2) Madison 85 (distance)
+3) Huntsville 99 (distance)
+0923: Peachtree Corners
+1) Johns Creek 6 (distance)
+2) Dunwoody 10 (distance)
+3) Alpharetta 13 (distance)
+0924: Brentwood
+1) Nashville-Davidson 14 (distance)
+2) Franklin 14 (distance)
+3) Smyrna 24 (distance)
+0925: Bozeman
+1) Billings 197 (distance)
+2) Great Falls 202 (distance)
+3) Idaho Falls 255 (distance)
+0926: New Berlin
+1) Greenfield 7 (distance)
+2) West Allis 9 (distance)
+3) Brookfield 9 (distance)
+0927: Goose Creek
+1) Summerville 13 (distance)
+2) North Charleston 15 (distance)
+3) Charleston 24 (distance)
+0928: Huntsville
+1) Conroe 46 (distance)
+2) College Station 75 (distance)
+3) Bryan 78 (distance)
+0929: Prescott Valley
+1) Prescott 16 (distance)
+2) Flagstaff 89 (distance)
+3) Surprise 109 (distance)
+0930: Maplewood
+1) Woodbury 4 (distance)
+2) St. Paul 7 (distance)
+3) Minneapolis 21 (distance)
+0931: Romeoville
+1) Bolingbrook 5 (distance)
+2) Plainfield 10 (distance)
+3) Naperville 12 (distance)
+0932: Duncanville
+1) DeSoto 8 (distance)
+2) Cedar Hill 8 (distance)
+3) Grand Prairie 13 (distance)
+0933: Atlantic City
+1) Vineland 53 (distance)
+2) Camden 86 (distance)
+3) Philadelphia 91 (distance)
+0934: Clovis
+1) Lubbock 154 (distance)
+2) Amarillo 154 (distance)
+3) Roswell 165 (distance)
+0935: The Colony
+1) Frisco 10 (distance)
+2) Lewisville 10 (distance)
+3) Carrollton 11 (distance)
+0936: Culver City
+1) Inglewood 7 (distance)
+2) Santa Monica 8 (distance)
+3) Hawthorne 12 (distance)
+0937: Marlborough
+1) Worcester 22 (distance)
+2) Waltham 26 (distance)
+3) Leominster 26 (distance)
+0938: Hilton Head Island
+1) Savannah 35 (distance)
+2) Charleston 99 (distance)
+3) North Charleston 101 (distance)
+0939: Moorhead
+1) Fargo 1 (distance)
+2) Grand Forks 118 (distance)
+3) St. Cloud 248 (distance)
+0940: Calexico
+1) El Centro 13 (distance)
+2) Yuma 81 (distance)
+3) Coachella 127 (distance)
+0941: Bullhead City
+1) Lake Havasu City 74 (distance)
+2) Henderson 108 (distance)
+3) Las Vegas 127 (distance)
+0942: Germantown
+1) Bartlett 14 (distance)
+2) Collierville 14 (distance)
+3) Southaven 21 (distance)
+0943: La Quinta
+1) Palm Desert 8 (distance)
+2) Indio 10 (distance)
+3) Coachella 12 (distance)
+0944: Lancaster
+1) Newark 41 (distance)
+2) Columbus 43 (distance)
+3) Grove City 46 (distance)
+0945: Wausau
+1) Appleton 123 (distance)
+2) Oshkosh 135 (distance)
+3) Green Bay 136 (distance)
+0946: Sherman
+1) McKinney 48 (distance)
+2) Frisco 57 (distance)
+3) Allen 59 (distance)
+0947: Ocoee
+1) Winter Garden 4 (distance)
+2) Apopka 13 (distance)
+3) Orlando 16 (distance)
+0948: Shakopee
+1) Eden Prairie 7 (distance)
+2) Minnetonka 14 (distance)
+3) Edina 17 (distance)
+0949: Woburn
+1) Medford 7 (distance)
+2) Malden 9 (distance)
+3) Somerville 11 (distance)
+0950: Bremerton
+1) Seattle 22 (distance)
+2) Burien 24 (distance)
+3) Shoreline 30 (distance)
+0951: Rock Island
+1) Davenport 1 (distance)
+2) Moline 5 (distance)
+3) Iowa City 80 (distance)
+0952: Muskogee
+1) Broken Arrow 51 (distance)
+2) Tulsa 72 (distance)
+3) Fort Smith 96 (distance)
+0953: Cape Girardeau
+1) Belleville 141 (distance)
+2) St. Louis 158 (distance)
+3) Chesterfield 177 (distance)
+0954: Annapolis
+1) Bowie 24 (distance)
+2) Baltimore 36 (distance)
+3) Washington 47 (distance)
+0955: Greenacres
+1) Boynton Beach 11 (distance)
+2) West Palm Beach 12 (distance)
+3) Wellington 13 (distance)
+0956: Ormond Beach
+1) Daytona Beach 8 (distance)
+2) Port Orange 17 (distance)
+3) Palm Coast 36 (distance)
+0957: Hallandale Beach
+1) Aventura 2 (distance)
+2) Hollywood 3 (distance)
+3) North Miami Beach 5 (distance)
+0958: Stanton
+1) Cypress 4 (distance)
+2) Garden Grove 5 (distance)
+3) Westminster 5 (distance)
+0959: Puyallup
+1) Tacoma 13 (distance)
+2) Auburn 14 (distance)
+3) Federal Way 15 (distance)
+0960: Pacifica
+1) San Bruno 6 (distance)
+2) Daly City 8 (distance)
+3) South San Francisco 8 (distance)
+0961: Hanover Park
+1) Bartlett 3 (distance)
+2) Streamwood 4 (distance)
+3) Schaumburg 6 (distance)
+0962: Hurst
+1) Bedford 3 (distance)
+2) North Richland Hills 5 (distance)
+3) Euless 8 (distance)
+0963: Lima
+1) Findlay 50 (distance)
+2) Fort Wayne 94 (distance)
+3) Springfield 94 (distance)
+0964: Marana
+1) Oro Valley 24 (distance)
+2) Tucson 36 (distance)
+3) Casa Grande 70 (distance)
+0965: Carpentersville
+1) Elgin 9 (distance)
+2) Hoffman Estates 12 (distance)
+3) Streamwood 12 (distance)
+0966: Oakley
+1) Brentwood 7 (distance)
+2) Antioch 8 (distance)
+3) Pittsburg 15 (distance)
+0967: Huber Heights
+1) Dayton 11 (distance)
+2) Beavercreek 15 (distance)
+3) Kettering 17 (distance)
+0968: Lancaster
+1) DeSoto 9 (distance)
+2) Duncanville 15 (distance)
+3) Cedar Hill 18 (distance)
+0969: Montclair
+1) Ontario 3 (distance)
+2) Upland 4 (distance)
+3) Pomona 6 (distance)
+0970: Wheeling
+1) Buffalo Grove 4 (distance)
+2) Arlington Heights 7 (distance)
+3) Mount Prospect 8 (distance)
+0971: Brookfield
+1) Wauwatosa 8 (distance)
+2) West Allis 9 (distance)
+3) New Berlin 9 (distance)
+0972: Park Ridge
+1) Des Plaines 4 (distance)
+2) Glenview 7 (distance)
+3) Skokie 8 (distance)
+0973: Florence
+1) Sumter 61 (distance)
+2) Columbia 119 (distance)
+3) Fayetteville 125 (distance)
+0974: Roy
+1) Ogden 8 (distance)
+2) Layton 12 (distance)
+3) Bountiful 32 (distance)
+0975: Winter Garden
+1) Ocoee 4 (distance)
+2) Apopka 15 (distance)
+3) Orlando 20 (distance)
+0976: Chelsea
+1) Revere 2 (distance)
+2) Everett 2 (distance)
+3) Boston 4 (distance)
+0977: Valley Stream
+1) Hempstead 8 (distance)
+2) Freeport 10 (distance)
+3) New York 25 (distance)
+0978: Spartanburg
+1) Greenville 43 (distance)
+2) Gastonia 76 (distance)
+3) Rock Hill 82 (distance)
+0979: Lake Oswego
+1) Tigard 7 (distance)
+2) Portland 11 (distance)
+3) Beaverton 12 (distance)
+0980: Friendswood
+1) Pearland 9 (distance)
+2) League City 10 (distance)
+3) Pasadena 17 (distance)
+0981: Westerville
+1) Dublin 16 (distance)
+2) Columbus 19 (distance)
+3) Grove City 30 (distance)
+0982: Northglenn
+1) Thornton 3 (distance)
+2) Westminster 8 (distance)
+3) Broomfield 9 (distance)
+0983: Phenix City
+1) Columbus 1 (distance)
+2) Auburn 47 (distance)
+3) Montgomery 122 (distance)
+0984: Grove City
+1) Columbus 11 (distance)
+2) Dublin 24 (distance)
+3) Westerville 30 (distance)
+0985: Texarkana
+1) Shreveport 103 (distance)
+2) Bossier City 105 (distance)
+3) Longview 121 (distance)
+0986: Addison
+1) Elmhurst 5 (distance)
+2) Lombard 5 (distance)
+3) Wheaton 12 (distance)
+0987: Dover
+1) Vineland 56 (distance)
+2) Wilmington 64 (distance)
+3) Annapolis 85 (distance)
+0988: Lincoln Park
+1) Dearborn 7 (distance)
+2) Taylor 7 (distance)
+3) Dearborn Heights 12 (distance)
+0989: Calumet City
+1) Hammond 4 (distance)
+2) Gary 15 (distance)
+3) Oak Lawn 21 (distance)
+0990: Muskegon
+1) Grand Rapids 55 (distance)
+2) Wyoming 56 (distance)
+3) Kentwood 63 (distance)
+0991: Aventura
+1) Hallandale Beach 2 (distance)
+2) North Miami Beach 3 (distance)
+3) Hollywood 6 (distance)
+0992: Martinez
+1) Concord 10 (distance)
+2) Walnut Creek 13 (distance)
+3) Vallejo 14 (distance)
+0993: Greenfield
+1) West Allis 6 (distance)
+2) New Berlin 7 (distance)
+3) Wauwatosa 9 (distance)
+0994: Apache Junction
+1) Gilbert 23 (distance)
+2) Mesa 26 (distance)
+3) Chandler 29 (distance)
+0995: Monrovia
+1) Arcadia 3 (distance)
+2) Baldwin Park 7 (distance)
+3) El Monte 8 (distance)
+0996: Weslaco
+1) Pharr 19 (distance)
+2) Edinburg 23 (distance)
+3) McAllen 24 (distance)
+0997: Keizer
+1) Salem 5 (distance)
+2) Albany 39 (distance)
+3) Corvallis 50 (distance)
+0998: Spanish Fork
+1) Provo 13 (distance)
+2) Orem 20 (distance)
+3) Lehi 34 (distance)
+0999: Beloit
+1) Janesville 19 (distance)
+2) Rockford 26 (distance)
+3) Crystal Lake 65 (distance)
+1000: Panama City
+1) Dothan 121 (distance)
+2) Tallahassee 136 (distance)
+3) Pensacola 152 (distance)
